@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Werkstudent jobs in Dresden for economics students, ranked by fit and hours.">
+  <meta name="theme-color" content="#1f5f8b">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="WS Radar">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <title>Werkstudent Radar · Dresden</title>
+  <link rel="icon" type="image/png" href="icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🎯</span>
+      <div>
+        <h1>Werkstudent Radar</h1>
+        <p class="tagline">Economics jobs in Dresden · aiming for ~20 h/week</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <span id="updated" class="muted small"></span>
+      <button id="refreshBtn" class="btn btn-primary" title="Fetch the latest listings">
+        <span class="spin-icon">↻</span> Refresh
+      </button>
+    </div>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-view="discover">🔎 Discover</button>
+    <button class="tab" data-view="pipeline">📋 My applications <span class="pill" id="pipelineCount">0</span></button>
+    <button class="tab" data-view="boards">🧭 More job boards</button>
+  </nav>
+
+  <main>
+    <!-- DISCOVER -->
+    <section id="view-discover" class="view">
+      <button id="filterToggle" class="btn btn-ghost filter-toggle">⚙️ Filters</button>
+      <div class="discover-layout">
+        <aside class="filters" id="filters">
+          <label class="field">
+            <span>Search</span>
+            <input id="q" type="search" placeholder="e.g. Controlling, Marketing, SAP…">
+          </label>
+
+          <div class="field">
+            <span>Hours per week</span>
+            <div class="segmented" id="hoursSeg">
+              <button data-hours="any">Any</button>
+              <button data-hours="15">15 h+</button>
+              <button data-hours="18">18–20 h</button>
+            </div>
+            <label class="check"><input type="checkbox" id="includeUnknown"> Include jobs that don't state hours</label>
+          </div>
+
+          <label class="field">
+            <span>Minimum fit <b id="minFitVal"></b></span>
+            <input id="minFit" type="range" min="0" max="90" step="5">
+          </label>
+
+          <div class="field">
+            <span>Area</span>
+            <div class="chips" id="catChips"></div>
+          </div>
+
+          <label class="field">
+            <span>Radius around Dresden</span>
+            <select id="radius">
+              <option value="10">10 km</option>
+              <option value="15">15 km</option>
+              <option value="25">25 km</option>
+              <option value="40">40 km (incl. Meißen, Pirna, Freiberg)</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Sort by</span>
+            <select id="sort">
+              <option value="fit">Best fit</option>
+              <option value="new">Newest</option>
+              <option value="hours">Closest to 20 h</option>
+              <option value="dist">Closest to centre</option>
+            </select>
+          </label>
+
+          <div class="field">
+            <label class="check"><input type="checkbox" id="onlyNew"> Only new since last week</label>
+            <label class="check"><input type="checkbox" id="showOther"> Show dual study &amp; non-student jobs</label>
+            <label class="check"><input type="checkbox" id="showHidden"> Show hidden jobs</label>
+          </div>
+
+          <button id="resetFilters" class="btn btn-ghost small">Reset filters</button>
+
+          <div class="tipbox">
+            <b>💡 Werkstudent 101</b>
+            <p>During the semester you can work <b>up to 20 h/week</b> and keep the Werkstudent status (much lower social-security deductions). In semester breaks more hours are fine. Minimum wage applies (€13.90/h in 2026).</p>
+          </div>
+        </aside>
+
+        <div class="results">
+          <div class="results-head">
+            <span id="resultCount" class="muted"></span>
+            <div class="segmented small" id="layoutSeg">
+              <button data-layout="list">☰ List</button>
+              <button data-layout="map">🗺️ Map</button>
+            </div>
+          </div>
+          <div id="jobList" class="job-list"></div>
+          <div id="map" class="map hidden"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PIPELINE -->
+    <section id="view-pipeline" class="view hidden">
+      <div class="pipeline-head">
+        <p class="muted intro">Everything you saved or applied to. Move jobs along with the status menu. Notes save automatically, <b>in this browser only</b>, so make a backup now and then.</p>
+        <div class="backup">
+          <button id="exportBtn" class="btn small">⬇️ Backup</button>
+          <button id="importBtn" class="btn small">⬆️ Restore</button>
+          <input id="importFile" type="file" accept="application/json,.json" hidden>
+        </div>
+      </div>
+      <div id="pipeline" class="pipeline"></div>
+    </section>
+
+    <!-- BOARDS -->
+    <section id="view-boards" class="view hidden">
+      <p class="muted intro">The radar reads the Bundesagentur für Arbeit live. Many Dresden jobs are <i>only</i> posted on these sites, so check them once a week too.</p>
+      <div id="boards" class="boards"></div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast"></div>
+
+  <footer class="muted small">
+    Data: Bundesagentur für Arbeit Jobsuche, updated automatically 3× a day · scores are a best guess. Always read the actual listing ✌️
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

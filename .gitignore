@@ -1,0 +1,6 @@
+data/details_cache.json
+data/tracker.json
+__pycache__/
+*.tmp
+.claude/
+.DS_Store
