@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-05T13:42:56+00:00",
+ "updated_at": "2026-10-05T22:37:23+00:00",
  "radius": 40,
- "count": 132,
+ "count": 130,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -212,59 +212,6 @@
     "student": 1.0
    },
    "fit": 95,
-   "first_seen": "2026-10-05T13:16:11+00:00",
-   "initial": true
-  },
-  {
-   "id": "10000-1207921013-S",
-   "title": "Buchhaltung als Werkstudent",
-   "company": "Lehmann Zugangstechnik Dresden GmbH",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01127",
-   "street": "Bärnsdorfer Str. 179",
-   "lat": 51.084747,
-   "lon": 13.739319,
-   "distance_km": 2,
-   "profession": "Betriebswirt/in (Hochschule) - Rechnungswesen und Controlling",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": false,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-09-17",
-   "published": "2026-09-16",
-   "updated": "2026-09-17T08:03:05.255",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207921013-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207921013-S",
-   "external": false,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207921013-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTAwMDAtMTIwNzkyMTAxMy1T",
-    "reference": "10000-1207921013-S",
-    "published_by": "arbeitsagentur.de",
-    "published_by_url": "https://www.arbeitsagentur.de",
-    "direct": true,
-    "original_url": null,
-    "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-05T13:42:50+00:00"
-   },
-   "description": "Du suchst eine langfristige Perspektive in einem erfolgreich wachsenden Unternehmen? Dann bist du bei uns genau richtig!\n\nDie Lehmann Zugangstechnik Dresden GmbH, Dresden, gegründet 1993, hat sich von anfänglich vier Mitarbeitern zu einem großen und leistungsstarken Anbieter der Branche Hubarbeitsbühnenvermieter in Dresden entwickelt. Heute sind über 60 Mitarbeiter in unserem Unternehmen beschäftigt.\n\nUnsere Geschäftsbereiche sind:\n\n• Hubarbeitsbühnenvermietung sowie Verkauf von Hubarbeitsbühnen aller Art von 12m bis 45m Arbeitshöhe mit unterschiedlichen Systemvarianten\n• Herstellung, Instandhaltung und technischer Service mit UVV-Prüfungen durch zertifiziertes Personal sowie IPAF-Schulungen\n• Sicherheitsvernetzung, Randabsturzsysteme sowie Gerüstbau, Vermietung und Verkauf\n• Fahrgerüstvermietung und Verkauf sowie Sonderkonstruktionen\n\nDie Gesellschaft kann nunmehr auf bereits über 30 Jahre Erfahrung in diesem Segment zurückblicken und hat sich im Laufe der Zeit zu einem leistungsstarken Unternehmen in seiner Branche etabliert.\n\nDie Lehmann Zugangstechnik Dresden GmbH ist regional und überregional an den Standorten Dresden und Berlin sowie auch in Wien und Zagreb über ihre Tochtergesellschaften tätig.\n\n### **Wir suchen zum nächstmöglichen Zeitpunkt Unterstützung in der Buchhaltung.**\n\n**Ihre Aufgaben**\n• Selbstständige, eigenverantwortliche Verbuchung aller Geschäftsvorfälle im Bereich Kreditoren, Debitoren und Sachkonten\n• Banken- / Kassenbuchhaltung\n• Reisekostenabrechnungen\n• Forderungsmanagement / Mahnwesen\n• Zuarbeiten bei Monatsabschlüssen\n\n**Ihr Profil**\n• Eine erfolgreich abgeschlossene kaufmännische Berufsausbildung (z.B. Industriekaufmann, Kauffrau für Büromanagement (m/w/d)) oder vergleichbar\n• Berufserfahrung in der Buchhaltung\n• Du hast gute Excel Kenntnisse und kannst diese auch bei den täglichen Herausforderungen einsetzen\n• Eine strukturierte, zuverlässige und selbstständige Arbeitsweise sowie ein gutes Zahlenverständnis und eine schnelle Auffassungsgabe\n• Eigenverantwortliches Arbeiten, Kommunikationsstärke sowie Proaktivität\n• Du hast Spaß daran dein Arbeitsumfeld und die Abteilungsprozesse mitzugestalten\n• gute Sprachkenntnisse in Deutsch\n• Englisch (wünschenswert)\n\n**Wir bieten**\n• Abwechslungsreiche und verantwortungsvolle Tätigkeit in einem jungen und dynamischen Team\n• Professionelle Einarbeitung\n• leistungsgerechte Entlohnung nach Vereinbarung\n• kostenlosen Kaffee\n• Teamevents, Firmenfeiern\n\n**Haben wir dein Interesse geweckt, dann freuen wir uns auf deine Bewerbungsunterlagen.**",
-   "is_student_job": true,
-   "category": "Finance & Controlling",
-   "emoji": "💶",
-   "scores": {
-    "econ": 1.0,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 89,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
   },
@@ -6099,59 +6046,6 @@
    "initial": true
   },
   {
-   "id": "10000-1207983683-S",
-   "title": "Referatsleitung (m/w/d) des Referates 34 „Hochschulplanung, Studentenwerke“",
-   "company": "Sächsisches Staatsministerium für Wissenschaft, Kultur und Tourismus",
-   "city": "Dresden",
-   "district": "",
-   "plz": "",
-   "street": "",
-   "lat": 51.0665003,
-   "lon": 13.7726773,
-   "distance_km": 1,
-   "profession": "Jurist/in",
-   "type": "ARBEIT",
-   "hours_min": 40.0,
-   "hours_max": 40.0,
-   "hours_snippet": "liche Arbeitszeiten (Rahmenarbeitszeit von 06:00 Uhr bis 22:00 Uhr) und Zertifikat „audit berufundfamilie“ - eine Vollzeitbeschäftigung mit 40 Wochenstunden - Möglichkeiten zur Mobilen Arbeit - 30 Tage Erholungsurlaub bei 5-Tage-Woche - für Beschäftigte die betriebliche Altersvorsorge der Versorgungsanstalt des Bundes und der Länder (VBL) - Leistungsanreize entsprechend den geltenden Vorschriften - regelmäßige Fort- und Weiterbildungsmöglichkeiten sowie Inhouse-Schulungsangebote - ein betriebliches Gesundheitsmanagement mit Angeboten zur betrieblichen Gesundheitsförderung - das Angebot eines Jobtickets oder Deutschland-Jobtickets der Deutschen Bahn bzw. des jeweiligen Verkehrsverbundes im Freistaat Sachsen **Vergütung&#32;** nach Besoldungsgruppe A Bei Beamtinnen und Beamten erfolgt bei Vorliegen der laufbahnrechtlichen Voraussetzungen zum Zeitpunkt der Übertragung der Führungsfunktion die Übertragung des Amtes als Ministerialrätin/Ministerialrat bzw. mit Entwicklungsmöglichkeiten bis zur Besoldungsgruppe B 3 SächsBesG. Die regelmäßige Probezeit beträgt zwei Jahre. Bei Beschäftigten erfolgt bei Erfüllung der persönlichen Voraussetzungen eine außertarifliche jeweiligen Grundgehaltssätzen der entsprechenden Beschäftigung mit einem an den Besoldungsgruppe orientierten Entgelt. Die Bestellung in eine Führungsfunktion bei Zustimmung des Sächsischen Kabinetts erfolgt im Beschäftigtenverhältnis zunächst ebenso auf Probe für die Dauer von zwei Jahren. **Sie bringen mit&#32;** - ein abgeschlossenes universitäres Hochschulstudium (Diplom/ Master/ zweites Staatsexamen), - mind. zweijährige berufliche Erfahrungen an einer Hochschule, - fließende Sprachkenntnisse (mind. C1) der deutschen Sprache (sofern nicht Muttersprache, Nachweis erforderlich), - Erfüllung der Voraussetzungen gemäß den Beförderungsgrundsätzen für die Übertragung von Ämtern ab Besoldungsgruppe A 16 in der Sächsischen Staatsverwaltung. Für die Übertragung in Tätigkeiten oberhalb der entsprechender Tätigkeiten an außertariflich Beschäftigte Entgeltgruppe 15 TV-L sind o. g. Beförderungsgrundsätze entsprechend anzuwenden. Gemäß der Beförderungsgrundsätze ist eine den Anforderungen des zu besetzenden Dienstpostens entsprechende notwendige Erfahrung auf verschiedenen Dienstposten erforderlich. Für Bewerberinnen folgende Mindestvoraussetzungen: - einem Beamtenverhältnis und Bewerber gelten in Beamtinnen und Beamte, die mindestens ein Amt der Besoldungsgruppe A 15 innehaben und - in den letzten beiden Regelbeurteilungen, davon mindestens eine Regelbeurteilung in der Besoldungsgruppe A 15, mit dem Gesamturteil „übertrifft die Anforderungen“ beurteilt wurden (Bei Nichtteilnahme an einer Regelbeurteilung wird ausnahmsweise einmalig eine erstellte Anlassbeurteilung berücksichtigt.) und - über eine den Anforderungen des zu besetzenden Dienstpostens entsprechende notwendige Erfahrung auf verschiedenen Dienstposten verfügen (Nachweis der Verwendungsbreite und - tiefe): a) mindestens zwei Jahre bei wenigstens einer obersten Landes- oder Bundesbehörde (einschließlich vergleichbarer Institutionen der Europäischen Union, Verwaltung und Fraktionen der Parlamente des Bundes und der Länder, Rechnungshöfe, Kommunale Landesverbände) und b) mindestens zwei Jahre bei einer anderen Behörde als einer obersten Landes- oder und Gebietskörperschaften, (einschließlich Hochschulen, Bundesbehörde Wirtschaftsunternehmen) und c) in verschiedenen Aufgabenbereichen. Falls die erforderliche Verwendungsbreite von zwei Jahren noch nicht erfüllt ist, kann dieser Dienstposten zunächst im Rahmen einer „Beauftragung mit der Wahrnehmung der Dienstgeschäfte“ ausgeübt werden. Anschließend ist die Übertragung eines Amtes ab A 16 bzw. eine vergleichbare AT-Beschäftigung möglich. in für Bewerberinnen und Bewerber Die vorgenannten Mindestvoraussetzungen sind Tarifbeschäftigung analog anzuwenden. Dabei ist zum Zeitpunkt der Bewerbung eine Eingruppierung in Entgeltgruppe 15 und die Wahrnehmung entsprechender Tätigkeiten erforderlich. Zudem können auch Bewerberinnen und Bewerber mit einer Eingruppierung in Entgeltgruppe 14 TVL in das Auswahlverfahren einbezogen werden, sofern sie bereits Führungsaufgaben im Hochschulbereich im Umfang von mind. fünf Jahren wahrnehmen bzw. wahrgenommen haben (z. B. Sachgebietsleitungen/Dezernenten). Bei der Einstellung von externen Bewerberinnen/Bewerbern, ist die Verwendungsbreite und -tiefe durch berufliche Erfahrungen aus unterschiedlichen Arbeitsbereichen außerhalb des öffentlichen Dienstes durch Vorlage der entsprechenden Arbeitszeugnisse nachzuweisen. Eine mindestens fünfjährige Berufserfahrung in der Laufbahngruppe 2.2 oder vergleichbaren Tätigkeiten ist zwingend erforderlich. **Darüber hinaus erwarten wir von Ihnen:&#32;&#32;** - ein hohes Maß an Verantwortungsbewusstsein, Verhandlungsgeschick und Belastbarkeit - ausgeprägte Führungskompetenzen (Mitarbeitermotivation, Informationsverhalten, Entscheidungsfähigkeit und Leistungsorientierung) - eine ausgeprägte Konfliktfähigkeit und kommunikative Kompetenzen - eine ausgeprägte Methodenkompetenz (Arbeitsstrukturierung und -techniken). **Von Vorteil sind&#32;&#32;** - vertiefte Kenntnisse durch berufliche Erfahrungen in der Hochschulplanung - berufliche Erfahrung im Controlling von wissenschaftlichen Organisationen - mehrjährige Erfahrung in der Konzeption, Koordination und Umsetzung von Programmen und Vorhaben der Hochschul- und Wissenschaftsförderung mit Bezug zur Zusammenarbeit von Bund, Ländern und Hochschulen (z. B. Exzellenzstrategie, Hochschulpakt, DFG-Programme) **Ihre Bewerbung&#32;** Haben wir Ihr Interesse geweckt? Wir freuen uns auf Ihre Bewerbung unter dem Aktenzeichen 10321/170/8 als PDF-Datei per E-Mail an personal@smwk.sachsen.de. Bitte fassen Sie die Anlagen in einer PDF-Datei (max. 10 MB) zusammen. Die Bewerbungsunterlagen umfassen insbesondere nachfolgende Dokumente: - ein Anschreiben bzw. ein Motivationsschreiben mit Bezug zur Stelle - einen Lebenslauf - relevante Abschlusszeugnisse (insbes. zum Studium) - bei Vorliegen eines ausländischen Hochschulabschlusses ist die Vorlage einer Zeugnisbewertung der Zentralstelle für ausländisches Bildungswesen (ZAB) notwendig - eine aktuelle dienstliche Beurteilung aus dem derzeit wahrgenommenen Amt bzw. ein aktuelles qualifiziertes Arbeitszeugnis (jeweils nicht älter als drei Jahre) - Arbeitszeugnisse bzw. Beurteilungen zum Nachweis des Vorliegens o. g. Voraussetzungen. Bitte beachten Sie, dass Bewerbungen mit unvollständigen Bewerbungsunterlagen im Verfahren keine Berücksichtigung finden können. Sie haben Fragen? Rufen Sie uns an – Herr Otto, Telefon 0351 564-61400, steht Ihnen gerne zur Verfügung. Das SMWK ist bestrebt, den Anteil der Frauen in Führungspositionen zu erhöhen und fordert daher Frauen ausdrücklich auf, sich zu bewerben Schwerbehinderte Menschen und ihnen gleichgestellte Personen berücksichtigen wir bei gleicher Eignung bevorzugt. Gehören Sie zu diesem Personenkreis, fügen Sie bitte Ihrer Bewerbung einen Nachweis bei. Bewerberinnen und Bewerber, die bereits beim Freistaat Sachsen beschäftigt sind, werden zusätzlich gebeten, Klicken Sie bitte hier für Hinweise zum [Datenschutz](https://www.smwk.sachsen.de/karriere.html?_cp=%7B%22a-5990%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22a-5990%22%2C%22idx%22%3A0%7D%7D) und zur Kommunikation https://www.sachsen.de/kontakt.html",
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": true,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-11-01",
-   "published": "2026-09-22",
-   "updated": "2026-09-22T14:29:26.153",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207983683-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207983683-S",
-   "external": false,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207983683-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTAwMDAtMTIwNzk4MzY4My1T",
-    "reference": "10000-1207983683-S",
-    "published_by": "arbeitsagentur.de",
-    "published_by_url": "https://www.arbeitsagentur.de",
-    "direct": true,
-    "original_url": null,
-    "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-05T13:42:54+00:00"
-   },
-   "description": "**Das SMWK stellt ein!**\n\nAktenzeichen: 1-0321/170/8\n\nOrt: Dresden\n\nBewerbungsfrist: 5. Oktober 2026\n\nunbefristet\n\n### **Referatsleitung (m/w/d) des Referates 34 „Hochschulplanung, Studentenwerke“&#32;**\n\nzum nächstmöglichen Zeitpunkt im Sächsischen Staatsministerium für Wissenschaft, Kultur und Tourismus in Vollzeit zu besetzen\n\n**Über uns&#32;**\n\nDas Sächsische Staatsministerium für Wissenschaft, Kultur und Tourismus (SMWK) befasst sich mit dem gesellschaftlichen Leben im Freistaat Sachsen unter anderem in den Bereichen Hochschule, Wissenschaft und Forschung.  Darüber hinaus verfügt das Ministerium über einen eigenständigen Geschäftsbereich für die Themen Kultur und Tourismus.  Weitere Informationen zum SMWK finden Sie auf unserer Website.\n\n**Interessante Aufgaben&#32;**\n\nDer Leitung des Referates 34 obliegen folgende Aufgabenbereiche:\n\n- Strategische Leitung und Weiterentwicklung des Referats einschließlich Personalführung und - entwicklung, Steuerung der Arbeitsprozesse sowie Einsatz der personellen und finanziellen Ressourcen.\n- Verantwortung für die Hochschulentwicklungsplanung des Freistaates Sachsen einschließlich der Erarbeitung strategischer Konzepte, Analysen und Entscheidungsgrundlagen.\n- Steuerung der Ziel- und Zuschussvereinbarungen mit den staatlichen Hochschulen sowie Begleitung des Controllings und der Umsetzung hochschulpolitischer Maßnahmen.\n- Grundsatzfragen der Hochschulplanung, der Hochschulstrukturentwicklung sowie der Studienplatz-, Kapazitäts- und Hochschulstatistik.\n- Koordinierung der Haushaltsplanung, des Haushaltsvollzugs und der Mittelbewirtschaftung der Abteilung einschließlich Begleitung von Prüfungen durch Rechnungshöfe.\n- Fachliche Steuerung der Angelegenheiten der Studentenwerke einschließlich der Wahrnehmung der Rechts- und Fachaufsicht.\n- Steuerung und Begleitung von Bund-Länder-Programmen sowie weiterer hochschulpolitischer Förderprogramme.\n- Vertretung des Freistaates Sachsen in Gremien auf Landes- und Bundesebene sowie Zusammenarbeit mit Hochschulen, Studentenwerken, Ministerien und weiteren Institutionen.\n- Vorbereitung von Entscheidungsvorlagen für die Hausleitung sowie Bearbeitung parlamentarischer Angelegenheiten und ministerieller Grundsatzfragen.\n- Steuerung referatsübergreifender Prozesse und Projekte sowie Sicherstellung einer vertrauensvollen Zusammenarbeit innerhalb des Hauses und mit externen Partnern.\n\n**Wir bieten Ihnen&#32;**\n\n- ein interessantes und verantwortungsvolles Aufgabengebiet\n- flexible und familienfreundliche Arbeitszeiten (Rahmenarbeitszeit von 06:00 Uhr bis 22:00 Uhr) und Zertifikat „audit berufundfamilie“\n- eine Vollzeitbeschäftigung mit 40 Wochenstunden\n- Möglichkeiten zur Mobilen Arbeit\n- 30 Tage Erholungsurlaub bei 5-Tage-Woche\n- für Beschäftigte die betriebliche Altersvorsorge der Versorgungsanstalt des Bundes und der Länder (VBL)\n- Leistungsanreize entsprechend den geltenden Vorschriften\n- regelmäßige Fort- und Weiterbildungsmöglichkeiten sowie Inhouse-Schulungsangebote\n- ein betriebliches Gesundheitsmanagement mit Angeboten zur betrieblichen Gesundheitsförderung\n- das Angebot eines Jobtickets oder Deutschland-Jobtickets der Deutschen Bahn bzw. des jeweiligen Verkehrsverbundes im Freistaat Sachsen\n\n**Vergütung&#32;**\n\nnach Besoldungsgruppe A Bei Beamtinnen und Beamten erfolgt bei Vorliegen der laufbahnrechtlichen Voraussetzungen zum Zeitpunkt der Übertragung der Führungsfunktion die Übertragung des Amtes als Ministerialrätin/Ministerialrat bzw. mit Entwicklungsmöglichkeiten bis zur Besoldungsgruppe B 3 SächsBesG. Die regelmäßige Probezeit beträgt zwei Jahre.\nBei Beschäftigten erfolgt bei Erfüllung der persönlichen Voraussetzungen eine außertarifliche jeweiligen Grundgehaltssätzen der entsprechenden Beschäftigung mit einem an den Besoldungsgruppe orientierten Entgelt.  Die Bestellung in eine Führungsfunktion bei Zustimmung des Sächsischen Kabinetts erfolgt im Beschäftigtenverhältnis zunächst ebenso auf Probe für die Dauer von zwei Jahren.\n\n**Sie bringen mit&#32;**\n\n- ein abgeschlossenes universitäres Hochschulstudium (Diplom/ Master/ zweites Staatsexamen),\n- mind. zweijährige berufliche Erfahrungen an einer Hochschule,\n- fließende Sprachkenntnisse (mind. C1) der deutschen Sprache (sofern nicht Muttersprache, Nachweis erforderlich),\n- Erfüllung der Voraussetzungen gemäß den Beförderungsgrundsätzen für die Übertragung von Ämtern ab Besoldungsgruppe A 16 in der Sächsischen Staatsverwaltung.  Für die Übertragung in Tätigkeiten oberhalb der entsprechender Tätigkeiten an außertariflich Beschäftigte Entgeltgruppe 15 TV-L sind o. g. Beförderungsgrundsätze entsprechend anzuwenden.\n\nGemäß der Beförderungsgrundsätze ist eine den Anforderungen des zu besetzenden Dienstpostens entsprechende notwendige Erfahrung auf verschiedenen Dienstposten erforderlich.  Für Bewerberinnen folgende Mindestvoraussetzungen:\n\n- einem Beamtenverhältnis und Bewerber gelten in Beamtinnen und Beamte, die mindestens ein Amt der Besoldungsgruppe A 15 innehaben und\n- in den letzten beiden Regelbeurteilungen, davon mindestens eine Regelbeurteilung in der Besoldungsgruppe A 15, mit dem Gesamturteil „übertrifft die Anforderungen“ beurteilt wurden (Bei Nichtteilnahme an einer Regelbeurteilung wird ausnahmsweise einmalig eine erstellte Anlassbeurteilung berücksichtigt.)  und\n- über eine den Anforderungen des zu besetzenden Dienstpostens entsprechende notwendige Erfahrung auf verschiedenen Dienstposten verfügen (Nachweis der Verwendungsbreite und - tiefe):\n\na) mindestens zwei Jahre bei wenigstens einer obersten Landes- oder Bundesbehörde (einschließlich vergleichbarer Institutionen der Europäischen Union, Verwaltung und Fraktionen der Parlamente des Bundes und der Länder, Rechnungshöfe, Kommunale Landesverbände) und b) mindestens zwei Jahre bei einer anderen Behörde als einer obersten Landes- oder und Gebietskörperschaften, (einschließlich Hochschulen, Bundesbehörde Wirtschaftsunternehmen) und\n\nc) in verschiedenen Aufgabenbereichen.\n\nFalls die erforderliche Verwendungsbreite von zwei Jahren noch nicht erfüllt ist, kann dieser Dienstposten zunächst im Rahmen einer „Beauftragung mit der Wahrnehmung der Dienstgeschäfte“ ausgeübt werden.  Anschließend ist die Übertragung eines Amtes ab A 16 bzw. eine vergleichbare AT-Beschäftigung möglich.\n\nin für Bewerberinnen und Bewerber Die vorgenannten Mindestvoraussetzungen sind Tarifbeschäftigung analog anzuwenden.  Dabei ist zum Zeitpunkt der Bewerbung eine Eingruppierung in Entgeltgruppe 15 und die Wahrnehmung entsprechender Tätigkeiten erforderlich.\nZudem können auch Bewerberinnen und Bewerber mit einer Eingruppierung in Entgeltgruppe 14 TVL in das Auswahlverfahren einbezogen werden, sofern sie bereits Führungsaufgaben im Hochschulbereich im Umfang von mind. fünf Jahren wahrnehmen bzw. wahrgenommen haben (z. B. Sachgebietsleitungen/Dezernenten).\n\nBei der Einstellung von externen Bewerberinnen/Bewerbern, ist die Verwendungsbreite und -tiefe durch berufliche Erfahrungen aus unterschiedlichen Arbeitsbereichen außerhalb des öffentlichen Dienstes durch Vorlage der entsprechenden Arbeitszeugnisse nachzuweisen.  Eine mindestens fünfjährige Berufserfahrung in der Laufbahngruppe 2.2 oder vergleichbaren Tätigkeiten ist zwingend erforderlich.\n\n**Darüber hinaus erwarten wir von Ihnen:&#32;&#32;**\n\n- ein hohes Maß an Verantwortungsbewusstsein, Verhandlungsgeschick und Belastbarkeit\n- ausgeprägte Führungskompetenzen (Mitarbeitermotivation, Informationsverhalten, Entscheidungsfähigkeit und Leistungsorientierung)\n- eine ausgeprägte Konfliktfähigkeit und kommunikative Kompetenzen\n- eine ausgeprägte Methodenkompetenz (Arbeitsstrukturierung und -techniken).\n\n**Von Vorteil sind&#32;&#32;**\n\n- vertiefte Kenntnisse durch berufliche Erfahrungen in der Hochschulplanung\n- berufliche Erfahrung im Controlling von wissenschaftlichen Organisationen\n- mehrjährige Erfahrung in der Konzeption, Koordination und Umsetzung von Programmen und Vorhaben der Hochschul- und Wissenschaftsförderung mit Bezug zur Zusammenarbeit von Bund, Ländern und Hochschulen (z. B. Exzellenzstrategie, Hochschulpakt, DFG-Programme)\n\n**Ihre Bewerbung&#32;**\n\nHaben wir Ihr Interesse geweckt?  Wir freuen uns auf Ihre Bewerbung unter dem Aktenzeichen 10321/170/8 als PDF-Datei per E-Mail an personal@smwk.sachsen.de.  Bitte fassen Sie die Anlagen in einer PDF-Datei (max. 10 MB) zusammen.\n\nDie Bewerbungsunterlagen umfassen insbesondere nachfolgende Dokumente:\n\n- ein Anschreiben bzw. ein Motivationsschreiben mit Bezug zur Stelle\n- einen Lebenslauf\n- relevante Abschlusszeugnisse (insbes.  zum Studium)\n- bei Vorliegen eines ausländischen Hochschulabschlusses ist die Vorlage einer Zeugnisbewertung der Zentralstelle für ausländisches Bildungswesen (ZAB) notwendig\n- eine aktuelle dienstliche Beurteilung aus dem derzeit wahrgenommenen Amt bzw. ein aktuelles qualifiziertes Arbeitszeugnis (jeweils nicht älter als drei Jahre)\n- Arbeitszeugnisse bzw. Beurteilungen zum Nachweis des Vorliegens o. g. Voraussetzungen.\n\nBitte beachten Sie, dass Bewerbungen mit unvollständigen Bewerbungsunterlagen im Verfahren keine Berücksichtigung finden können.\n\nSie haben Fragen?  Rufen Sie uns an – Herr Otto, Telefon 0351 564-61400, steht Ihnen gerne zur Verfügung.\n\nDas SMWK ist bestrebt, den Anteil der Frauen in Führungspositionen zu erhöhen und fordert daher Frauen ausdrücklich auf, sich zu bewerben Schwerbehinderte Menschen und ihnen gleichgestellte Personen berücksichtigen wir bei gleicher Eignung bevorzugt.  Gehören Sie zu diesem Personenkreis, fügen Sie bitte Ihrer Bewerbung einen Nachweis bei.\n\nBewerberinnen und Bewerber, die bereits beim Freistaat Sachsen beschäftigt sind, werden zusätzlich gebeten,\n\nKlicken Sie bitte hier für Hinweise zum [Datenschutz](https://www.smwk.sachsen.de/karriere.html?_cp=%7B%22a-5990%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22a-5990%22%2C%22idx%22%3A0%7D%7D) und zur Kommunikation https://www.sachsen.de/kontakt.html",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.03,
-    "hours": 0.1,
-    "student": 1.0
-   },
-   "fit": 19,
-   "first_seen": "2026-10-05T13:16:11+00:00",
-   "initial": true
-  },
-  {
    "id": "10000-1207346802-S",
    "title": "Dualer Student Informationstechnik w/m/d",
    "company": "B.Braun Avitum Saxonia GmbH",
@@ -7000,5 +6894,5 @@
    "initial": true
   }
  ],
- "took_s": 10.8
+ "took_s": 3.8
 }
