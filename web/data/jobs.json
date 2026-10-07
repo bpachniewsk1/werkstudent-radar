@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-07T11:04:54+00:00",
+ "updated_at": "2026-10-07T21:18:39+00:00",
  "radius": 40,
- "count": 134,
+ "count": 135,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -797,6 +797,59 @@
    "fit": 72,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
+  },
+  {
+   "id": "13635-65975487_JB5266524-S",
+   "title": "Werkstudent Buchhaltung (m/w/d)",
+   "company": "GICON Großmann Ingenieur Consult GmbH",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01219",
+   "street": "",
+   "lat": 51.0209672,
+   "lon": 13.7648651,
+   "distance_km": 6,
+   "profession": "Buchhalter/in",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-10-07",
+   "published": "2026-10-07",
+   "updated": "2026-10-07T14:12:51.752",
+   "url": "https://www.jobexport.de/job/5266524.html?exp=81&cid=65975487-8e22-4579-a2cd-c40a8df0b35e",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-65975487_JB5266524-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-65975487_JB5266524-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTM2MzUtNjU5NzU0ODdfSkI1MjY2NTI0LVM=",
+    "reference": "13635-65975487_JB5266524-S",
+    "published_by": "jobexport.de",
+    "published_by_url": "https://www.jobexport.de",
+    "direct": false,
+    "original_url": "https://www.jobexport.de/job/5266524.html?exp=81&cid=65975487-8e22-4579-a2cd-c40a8df0b35e",
+    "original_site": "jobexport.de",
+    "fetched_at": "2026-10-07T21:18:39+00:00"
+   },
+   "description": "zu Ihrem Aufgabengebiet gehören: \n • Registrierung des Rechnungseingangs und formale Rechnungsprüfung\n • Verbuchen von einfachen Geschäftsvorfällen im Kreditorenbereich\n • laufende Überwachung der offenen Posten\n • Zuarbeiten für Monats- und Jahresabschlüsse\n\nSie passen zu uns, wenn Sie: \n • ein laufendes Studium vorzugsweise mit einer wirtschaftswissenschaftlichen Ausrichtung absolvieren\n • Grundkenntnisse in Buchführung und Rechnungswesen haben – z. B. aus Studium oder erste Praxiserfahrungen\n • sichere im Umgang mit Microsoft Excel sind\n • teamfähig und kommunikativ sind\n • Zuverlässigkeit und Lernbereitschaft mitbringen\n • verhandlungssichere Deutschkenntnisse in Wort und Schrift besitzen\n\nWünschenswert wären:\n • erste Erfahrung mit Buchhaltungssoftware (z. B. Business Central - Microsoft Dynamics 365, DATEV, SAP)\n\nWir bieten Ihnen: \n • Spannende, abwechslungsreiche Aufgaben in vielfältigen und anspruchsvollen Projekten\n • Strukturierte Einarbeitung durch klare Prozesse, persönliche Ansprechpartner und eine gelebte Willkommenskultur\n • Zeit zur Regeneration: 30 Urlaubstage für Ihre Erholung – zusätzlich 3 Karenztage jährlich für Notfälle ohne Krankenschein\n • Individuelle Weiterentwicklung durch regelmäßige Feedbackgespräche und praktische Einblicke in das Unternehmen\n • Starken Teamzusammenhalt – von gemeinsamen Festen bis zu fachlichen Exkursionen feiern und wachsen wir gemeinsam\n\nÜber unsFreude an Innovation und Interesse an kreativen Lösungen hat in 30 Jahren die GICON ® zu einem in Deutschland führenden, unabhängig agierenden Ingenieursdienstleistungsunternehmen und Vorreiter der Energiewende gemacht. Wir leben unser Motto – Engineering the Future.Mit einem breiten und spannenden Aufgabenspektrum, von Beratung und Planung über Projektmanagement und Gutachten bis hin zu Software-Lösungen, liefern wir unseren Kunden alles aus einer Hand. Innovation durch Forschung ist eines der Markenzeichen der GICON® . Sowohl als Dienstleister für unsere Kunden als auch als Arbeitgeber.Nachhaltigkeit beim Umgang mit Ressourcen zu Gunsten einer sauberen Umwelt und einer lebenswerten Gesellschaft – sowohl heute als auch in Zukunft – an diesen Leitlinien orientiert sich unsere tägliche Arbeit.Die GICON ® verfügt über 20 Standorte in Deutschland und Büros weltweit.\nAktuell arbeiten über 600 Kolleginnen und Kollegen für alle Brands der Gruppe.\nMehr zu uns finden Sie unter: https://www.gicon.de/",
+   "is_student_job": true,
+   "category": "Finance & Controlling",
+   "emoji": "💶",
+   "scores": {
+    "econ": 0.71,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 71,
+   "first_seen": "2026-10-07T21:18:39+00:00",
+   "initial": false
   },
   {
    "id": "12117-YF-49275-YF-S",
@@ -2145,9 +2198,9 @@
    "minijob": false,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-10-01",
+   "start": "2026-10-08",
    "published": "2026-07-23",
-   "updated": "2026-09-11T17:17:24.792",
+   "updated": "2026-10-07T17:23:42.861",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1602934-1-S",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1602934-1-S",
    "external": false,
@@ -2161,7 +2214,7 @@
     "direct": false,
     "original_url": null,
     "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-05T13:42:51+00:00"
+    "fetched_at": "2026-10-07T21:18:39+00:00"
    },
    "description": "Die Deutsche Bahn bietet deutschlandweit über 500 Berufe und vielfältige Einstiegsmöglichkeiten für Studierende und Absolvent:innen. Ca. 2.000 Praktikant:innen, Werkstudent:innen, Direkteinsteiger:innen und Trainees lernen uns jährlich als dynamische und innovative Arbeitgeberin kennen. Sei dabei und hilf uns, die DB nach vorne zu bringen – und deine Karriere gleich mit.\n\n\nZum nächstmöglichen Zeitpunkt suchen wir dich als Werkstudent:in (w/m/d) Bauingenieurwesen im Bereich konstruktiver Ingenieurbau für die DB Engineering & Consulting GmbH am Standort Dresden oder Leipzig für 12 Monate (Option auf Verlängerung) sowie ca. 18h/Woche. Die genauen Rahmenbedingungen besprechen wir in unserem gemeinsamen Vorstellungsgespräch.\n\nDeine Aufgaben:\n\n\n- In deiner Rolle wirkst du an Projekten zur Neu- und Umplanung von Ingenieurbauwerken mit\n- Dabei unterstützt du bei Bauvorhaben in verschiedenen Planungsphasen der Eisenbahn- und Verkehrsinfrastruktur für Brücken, Stütz- und Lärmschutzwände, Durchlässe oder Funktionsgebäude\n- Gemeinsam mit weiteren Gewerken findest du Lösungen für unsere komplexen Bauvorhaben und wirkst an der Erstellung von Baubetriebs- und Bauzustandsplanungen mit\n- Du erhältst Einblicke in die Termin- und Kostenplanung sowie in die Schnittstellenarbeit im Zuge von Infrastrukturprojekten\n- Und schon heute kannst du bei uns an Projekten von Morgen mit der BIM-Planungsmethodik mitarbeiten und diese weiterentwickeln\n\n\nDein Profil:\n\n\n- Du studierst Bauingenieurwesen mit Schwerpunkt konstruktiver Ingenieurbau oder Hochbau bzw. Wirtschaftsingenieurwesen mit Schwerpunkt Bau im fortgeschrittenen Bachelor- oder Master- / Diplomstudium\n- Erste Erfahrungen im Bereich der Planung von Eisenbahn- und Verkehrsinfrastrukturen sind wünschenswert, aber kein Muss\n- Du bringst Grundlagenkenntnisse in CAD- / Modellierungs- und Statik-Programmen des Konstruktiven Ingenieurbaus mit\n- Dich zeichnen hohes Engagement, Neugier sowie eine verlässliche und selbstständige Arbeitsweise aus\n- Fließende Deutschkenntnisse (min. C1-Niveau) runden dein Profil ab und bist bereit, auch ohne KI Aufgaben zu lösen\n\n\nFür deine Bewerbung wünschen wir ein Anschreiben.\n\nDas ist uns wichtig:\n\nUnser Anspruch ist es, allen Kandidat:innen bei gleicher Eignung die gleichen Chancen für den Einstieg bei uns zu bieten. Wir fördern aktiv die Vielfalt und das Miteinander in unseren Teams. Wir schätzen jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter, Dauer der Arbeitslosigkeit sowie sexueller Orientierung und Identität.\n\nDeine Vorteile\n* Über Teamgrenzen hinweg: Der Austausch mit anderen Studierenden, z.B. durch unser vielfältiges Event- und Vernetzungsangebot, verschafft dir konzernweit hilfreiche Kontakte.\n* Dein Team arbeitet dich ein, begleitet dich und sorgt mit gezieltem Feedback für deine persönliche Weiterentwicklung.\n* Woran wir arbeiten, was wir besser machen wollen – das wirst du schnell herausfinden. Denn bei uns erlebst du einen Großkonzern auf Augenhöhe und arbeitest an spannenden und aktuellen Projekten.\n* Auch über die Grenzen deines Teams hinaus kannst du dich vernetzen. Wir bieten dir viele Möglichkeiten, dich mit anderen Kolleg:innen auszutauschen. So kannst du dir ein hilfreiches Netzwerk aufbauen, das dich durch den gesamten Konzern begleitet.\n\n\nBewirb dich jetzt online auf diese Ausschreibung. Deine vollständige Bewerbung enthält: Lebenslauf, Notenübersichten (Abitur und Studium), Praktikumszeugnisse sowie eine Angabe zum gewünschten Zeitraum. Handelt es sich um ein Pflichtpraktikum, dann ergänze deine Unterlagen bitte durch den entsprechenden Nachweis. Für die Berücksichtigung deiner Bewerbung benötigen wir auch eine aktuelle Immatrikulationsbescheinigung.\n\nEs besteht die Möglichkeit, nach deinem Praktikum eine Abschlussarbeit zu verfassen, oder dein Praktikum durch eine Werkstudententätigkeit zu verlängern.\n\nChancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerber:innen bei gleicher Eignung bevorzugt berücksichtigt.",
    "is_student_job": true,
@@ -7106,5 +7159,5 @@
    "initial": true
   }
  ],
- "took_s": 5.8
+ "took_s": 8.8
 }
