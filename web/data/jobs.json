@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T09:09:35+00:00",
+ "updated_at": "2026-10-15T15:01:23+00:00",
  "radius": 40,
  "count": 137,
  "jobs": [
@@ -5062,7 +5062,7 @@
    "salary": null,
    "start": "2027-01-15",
    "published": "2026-10-13",
-   "updated": "2026-10-15T07:38:40.849",
+   "updated": "2026-10-15T16:25:10.629",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF298408L-6743cc1-S",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF298408L-6743cc1-S",
    "external": false,
@@ -5076,7 +5076,7 @@
     "direct": false,
     "original_url": null,
     "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-15T09:09:35+00:00"
+    "fetched_at": "2026-10-15T15:01:23+00:00"
    },
    "description": "Job Title: Werkstudent Entwicklung, experimentelle Validierung, Charakterisierung eines Schnelltests zur Bestimmung der Korrosionsfestigkeit elektronischer Bauelemente (w/m/div.)  \\n\\nJob Description:\n\n• Während deiner Werkstudententätigkeit entwickelst du einen Schnelltest zur Bestimmung der Korrosionsfestigkeit elektronischer Bauelemente und unterstützt bei dessen experimenteller Validierung. Dabei untersuchst du das Korrosionsverhalten elektronischer Bauelemente unter definierten Prüfbedingungen sowie leistest einen Beitrag zu ihrer Zuverlässigkeitsbewertung.\n• Darüber hinaus planst und führst du Versuche im Labor durch sowie arbeitest mit korrosiven Medien. Du beachtest die entsprechenden Labor- und Sicherheitsvorgaben.\n• Vom ersten Tag an charakterisierst du die untersuchten Bauelemente vor und nach der Beanspruchung sowie dokumentierst die experimentellen Ergebnisse systematisch.\n• Deine Tätigkeit umfasst die Auswertung von Versuchsergebnissen mithilfe grundlegender statistischer Methoden und die Untersuchung von Zusammenhängen zwischen Prüfbedingungen sowie dem beobachteten Korrosionsverhalten.\n• Des Weiteren vergleichst du die Ergebnisse des Schnelltests und leitest daraus Erkenntnisse über die Aussagekraft, die Reproduzierbarkeit sowie die Eignung der Prüfmethode ab.\n• Nicht zuletzt bereitest du deine Ergebnisse strukturiert auf und stellst sie dem Entwicklungsteam vor.\n\nQualifications:\n\n• Ausbildung: Studium im Bereich Werkstoffwissenschaften, Chemie, Physik, Elektrotechnik, Mikrosystemtechnik, Verfahrenstechnik oder vergleichbare naturwissenschaftlich-technische Fachrichtung\n• Erfahrungen und Know-how: • sicherer Umgang mit MS Office\n• Kenntnisse im experimentellen Arbeiten\n• Erfahrung im Umgang mit Chemikalien im Labor\n• Grundkenntnisse in Statistik und der Auswertung experimenteller Daten von Vorteil\n\n• Persönlichkeit und Arbeitsweise: du bist eine selbstständige, zuverlässige und systematische Person, die neugierig sowie motiviert ist, technische Zusammenhänge nicht nur zu beobachten, sondern sie auch wissenschaftlich zu verstehen\n• Arbeitsalltag: deine Präsenz vor Ort ist erforderlich\n• Begeisterung: für die Themen Korrosion, Materialcharakterisierung, Zuverlässigkeit und elektronische Bauelemente sowie für die Aufgabenstellung; Bereitschaft und Sorgfalt beim praktischen Arbeiten im Labor sowie beim Umgang mit Chemikalien und korrosiven Medien; Freude daran, experimentelle Fragestellungen strukturiert zu untersuchen\n• Sprachen: gutes Deutsch und Englisch\n\nAdditional Information:\n\nBeginn: nach Absprache\nDauer: 6 Monate – 10h/Woche\n\nVoraussetzung für die Werkstudententätigkeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.\n\nVielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.\n\nDu hast fachliche Fragen zum Job?\nAxel Preusse (Fachabteilung)\n+49 152 07325084\nSusanne Reinert (Fachabteilung)\n+49 152 56818631\n\nWork #LikeABosch beginnt hier: Jetzt bewerben!\n\nStreet Address:\n\nRobert-Bosch-Ring 1\\n\\n---\\n Video zur Stelle: https://www.youtube.com/watch?v=Fo8TWPomHiQ",
    "is_student_job": true,
@@ -7265,5 +7265,5 @@
    "initial": true
   }
  ],
- "took_s": 6.4
+ "took_s": 4.8
 }
