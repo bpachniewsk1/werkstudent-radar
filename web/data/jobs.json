@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T15:06:11+00:00",
+ "updated_at": "2026-10-20T20:00:02+00:00",
  "radius": 40,
  "count": 128,
  "jobs": [
@@ -1562,9 +1562,9 @@
    "minijob": true,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-10-13",
+   "start": "2026-10-20",
    "published": "2026-09-01",
-   "updated": "2026-10-13T16:07:37.416",
+   "updated": "2026-10-20T17:21:06.605",
    "url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-unternehmenskommunikation--job--98390.html?tc=3-11",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11959-98390-S",
    "external": true,
@@ -1578,7 +1578,7 @@
     "direct": false,
     "original_url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-unternehmenskommunikation--job--98390.html?tc=3-11",
     "original_site": "der-stellenmarkt.de",
-    "fetched_at": "2026-10-13T21:14:50+00:00"
+    "fetched_at": "2026-10-20T20:00:02+00:00"
    },
    "description": "WERKSTUDENT (M/W/D) UNTERNEHMENSKOMMUNIKATION\n\n [https://www.iproconsult.com] \n\n Dresden \n\n ab sofort \n\n Geringfügig beschäftigt/Minijob \n\nZur Verstärkung unserer Unternehmenskommunikation am Hauptsitz in Dresden suchen wir engagierte WERKSTUDENTEN (m/w/d) mit Schwerpunkt VIDEOCONTENT-PRODUKTION für Social Media und Corporate Communication. \n\nIhr Beitrag \n\n \t• Produktion und Aufbereitung von Videocontent für interne und externe Kommunikationskanäle\n \t• Videoschnitt, Postproduktion und Animationen für Social Media, Website und Präsentationen\n \t• Mitwirkung an der Entwicklung von Bewegtbild-Formaten für IPROconsult\n \t• Unterstützung der Unternehmenskommunikation im Tagesgeschäft\n\nIhr Profil \n\n \t• laufendes Studium im Bereich Mediengestaltung/-informatik, Kommunikationsdesign, Filmproduktion oder vergleichbar\n \t• Erfahrung mit Videoschnitt- und Animationssoftware (z. B. Adobe Premiere Pro, DaVinci Resolve, CapCut, Canva, …)\n \t• kreatives Gespür für Storytelling und visuelle Gestaltung\n \t• selbstständige und strukturierte Arbeitsweise\n\nUnser Angebot \n\n \t• abwechslungsreiche Projekte mit Raum für Eigenverantwortung und Kreativität\n \t• ein sympathisches kleines Team und kollegiales Miteinander\n \t• optimale Erreichbarkeit Ihres Arbeitsplatzes in zentraler Lage (Nähe Großer Garten, Hauptbahnhof, Lennéplatz, Zoo)\n \t• frische, abwechslungsreiche Speisen im hauseigenen Betriebsrestaurant\n\nErfahren Sie mehr über uns: www.iproconsult.com/karriere [https://www.iproconsult.com/karriere] \n\nKontakt Jetzt bewerben [https://apply.jcd.de/Apply.php?iJobAdID=98390&tc=3-11] \n\nIhr Ansprechpartner für Rückfragen \n\nNils Gardlo \n\nTeam Personalwesen \n\nTel. +49 351 / 46 51 677 \n\n IPROconsult GmbH\n Schnorrstraße 70\n 01069 Dresden → www.iproconsult.com [https://www.iproconsult.com] \n ",
    "is_student_job": true,
@@ -6788,5 +6788,5 @@
    "initial": true
   }
  ],
- "took_s": 3.8
+ "took_s": 6.3
 }
