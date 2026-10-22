@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-22T09:25:04+00:00",
+ "updated_at": "2026-10-22T15:17:02+00:00",
  "radius": 40,
- "count": 128,
+ "count": 129,
  "jobs": [
   {
    "id": "12456-1642680-1-S",
@@ -4668,6 +4668,59 @@
    "initial": true
   },
   {
+   "id": "13635-0b1ad656_JB5279724-S",
+   "title": "Werkstudenten / Praktikanten (m/w/d)  Bauingenieurwesen oder Architektur",
+   "company": "ZETCON Ingenieure GmbH",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01307",
+   "street": "",
+   "lat": 51.0526313,
+   "lon": 13.7705539,
+   "distance_km": 2,
+   "profession": "Architekt/in",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-10-22",
+   "published": "2026-10-22",
+   "updated": "2026-10-22T14:13:00.585",
+   "url": "https://www.jobexport.de/job/5279724.html?exp=81&cid=0b1ad656-6147-42bb-8f8e-5f0e728cbf58",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-0b1ad656_JB5279724-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-0b1ad656_JB5279724-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTM2MzUtMGIxYWQ2NTZfSkI1Mjc5NzI0LVM=",
+    "reference": "13635-0b1ad656_JB5279724-S",
+    "published_by": "jobexport.de",
+    "published_by_url": "https://www.jobexport.de",
+    "direct": false,
+    "original_url": "https://www.jobexport.de/job/5279724.html?exp=81&cid=0b1ad656-6147-42bb-8f8e-5f0e728cbf58",
+    "original_site": "jobexport.de",
+    "fetched_at": "2026-10-22T15:17:02+00:00"
+   },
+   "description": "Ihre Aufgaben: • Mitarbeit in der Planung und Bauüberwachung von spannenden Projekten in den Lph 1-9\n • Unterstützung der Architekten und Projektingenieuren in einem unserer Handlungsfelder: - Architektur - Bahnbau - Bauen im Bestand\n • Bauwerkserhaltung\n • Bauwerksprüfung\n • Denkmalschutz - Erneuerbare Energien und Netzausbau\n • Industrieanlagen und Kraftwerke\n • Ingenieurbau\n • Ingenieurwasserbau\n • IT\n • Kaufmännischer Bereich\n • Kommunaler Bau - Planung\n • Projektmanagement\n • Straßen- und Brückenbau\n • Technische Gebäudeausrüstung\n • Tunnelausbau\n • Tief- und Tunnelbau\n • Umwelt- u. Abfallmanagement - Vermessung \n\nIhr Profil • Student (m/w/d) der Fachrichtung Bauingenieurwesen, Architektur oder vergleichbar\n • Gute analytische Fähigkeiten\n • Engagierte, Selbständige und strukturierte Arbeitsweise\n • Motivation und Zuverlässigkeit\n • Gute Kenntnisse der gängigen Office-Software\n\nZusatzinformationen Unsere Unternehmensausrichtung und spannende Projekte ermöglichen Ihre persönliche und berufliche Weiterentwicklung. Die praxisnahe Ausbildung von Jung- und Fachingenieuren und die Arbeit in interdisziplinären Teams sorgen für einen fortwährenden Wissenstransfer. Es erwartet Sie ein kollegiales Umfeld und die Übergabe von Verantwortung. Wir bilden unsere Mitarbeiterinnen und Mitarbeiter regelmäßig weiter, um unseren hohen Qualitätsanspruch gegenüber unseren Kunden zu erfüllen. Werden Sie Teil unserer dynamischen Unternehmensentwicklung, wir freuen uns auf Ihre Bewerbung! Bitte reichen Sie Ihre vollständigen Bewerbungsunterlagen, einschließlich eines Anschreibens, Lebenslaufs und relevanter Zeugnisse, über die Onlinebewerbung ein.",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-10-22T15:17:02+00:00",
+   "initial": false
+  },
+  {
    "id": "14927-dz4nmm-S",
    "title": "Praktikum / Werkstudententätigkeit Auftragszentrum / Operat",
    "company": "Eberspächer Gruppe GmbH & Co. KG",
@@ -6788,5 +6841,5 @@
    "initial": true
   }
  ],
- "took_s": 5.6
+ "took_s": 7.5
 }
