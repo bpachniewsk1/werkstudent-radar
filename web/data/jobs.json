@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T08:52:46+00:00",
+ "updated_at": "2026-10-24T14:01:04+00:00",
  "radius": 40,
  "count": 131,
  "jobs": [
@@ -4138,59 +4138,6 @@
    "initial": true
   },
   {
-   "id": "11956-2917001792620001-S",
-   "title": "Communardo GmbH: Werkstudent*in IT & AI Solutions (m/w/d)",
-   "company": "Communardo GmbH",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01129",
-   "street": "",
-   "lat": 51.0939685,
-   "lon": 13.7206541,
-   "distance_km": 4,
-   "profession": "KI-Engineer",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": true,
-   "minijob": false,
-   "homeoffice": true,
-   "salary": "14.0–19.0 €",
-   "start": "2026-10-22",
-   "published": "2026-10-22",
-   "updated": "2026-10-22T07:01:11.954",
-   "url": "https://www.empfehlungsbund.de/job/291700",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2917001792620001-S",
-   "external": true,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2917001792620001-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTE5NTYtMjkxNzAwMTc5MjYyMDAwMS1T",
-    "reference": "11956-2917001792620001-S",
-    "published_by": "Empfehlungsbund.de",
-    "published_by_url": "https://www.Empfehlungsbund.de",
-    "direct": false,
-    "original_url": "https://www.empfehlungsbund.de/job/291700",
-    "original_site": "empfehlungsbund.de",
-    "fetched_at": "2026-10-22T09:25:04+00:00"
-   },
-   "description": "Communardo ist führender Anbieter von Softwarelösungen und Beratungsleistungen für den digitalen Arbeitsplatz. Unser Herz schlägt für modernes Arbeiten, agile Prozesse, Kommunikation und Zusammenarbeit in Unternehmen. Unsere Expert\\*innen unterstützen Kund\\*innen aller Branchen bei der Auswahl der richtigen Software, realisieren intelligente Lösungen und entwickeln maßgeschneiderte Apps. Einführung und Betrieb der Lösungen begleiten wir durch Training und Change Management sowie Managed Services.\n\n### **Deine Rolle und deine Aufgaben**\n\n- Unterstützung bei der Einführung von KI-gestützten, automatisierten Prozessen im IT Department und IT Supportteam&nbsp;\n\n- Zentrale Schnittstelle für KI-Projekte bei Communardo&nbsp;\n\n- Mitarbeit an Themen rund um die stetige Verbesserung und Automatisierung der IT Toollandschaft\n\n- Standardisierung von Arbeitsabläufen und Erstellung interner Wissensdokumentationen&nbsp;\n\n- Weiterentwicklung bestehender Systeme und Vorgehen im IT Department\n\n### **Dein Profil und Deine Geschichte**\n\n- Studium der Betriebswirtschaftslehre, Informationssicherheit, Wirtschaftsinformatik oder ähnlicher Fachrichtung (ab dem 2. Semester)\n\n- Schnelle Auffassungsgabe für Abläufe und Funktionsweisen von IT-Anwendungen\n\n- Affinität für strukturierte Vorgehensweisen und gewissenhafte Detailarbeit\n\n- Eigenverantwortliche und strukturierte Arbeitsweise\n\n- Sehr gute Ausdrucksweise in deutscher Sprache in Wort und Schrift (C2) sowie sehr gute Englischkenntnisse (mindestens B2)\n\n- Idealerweise Grundkenntnisse in ISO 27001 oder SOC 2 und Erfahrung mit Jira/Atlassian\n\n- Verständnis für API-Schnittstellen und Offenheit für KI als Chance\n\n- Erste Erfahrung in der Automatisierung von repetitiven Tätigkeiten\n\n  \n  \nSchlagworte: Servicemanagement, Service-management, service-management, servicemanagement, Webservice, webservice, Support, support, AI, Systemingenieur, KI, Wirtschaftsinformatik, Servicemanager, systems-engineer, ISO, API, App, Service-Manager, service-manager, software-support, Empfehlungsbund  \nQuelle/Bewerbung via: [https://www.empfehlungsbund.de/jobs/291700/werkstudent-stern-in-it-und-ai-solutions-m-strich-w-strich-d](https://www.empfehlungsbund.de/jobs/291700/werkstudent-stern-in-it-und-ai-solutions-m-strich-w-strich-d#apply_form)  \n\n#### Kurzinfo zum Unternehmen\n\n**Smarter together!**\n\nCommunardo ist führender Anbieter von Softwarelösungen und Beratungsleistungen für den digitalen Arbeitsplatz. Unser Herz schlägt für modernes Arbeiten, agile Prozesse, Kommunikation und Zusammenarbeit in Unternehmen. Wir unterstützen Kund\\*innen aller Branchen bei der Auswahl der richtigen Software, realisieren intelligente Lösungen und entwickeln maßgeschneiderte Apps. Einführung und Betrieb der Lösungen begleiten wir durch Training und Change Management sowie Managed Services.\n\n",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.0,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 29,
-   "first_seen": "2026-10-22T09:25:04+00:00",
-   "initial": false
-  },
-  {
    "id": "10000-1206665639-S",
    "title": "Praktikant / Werkstudent (m/w/d) in der Bauleitung",
    "company": "GOLDBECK GmbH",
@@ -4242,6 +4189,59 @@
    "fit": 29,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
+  },
+  {
+   "id": "11956-2917001792620001-S",
+   "title": "Communardo GmbH: Werkstudent*in IT & AI Solutions (m/w/d)",
+   "company": "Communardo GmbH",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01129",
+   "street": "",
+   "lat": 51.0939685,
+   "lon": 13.7206541,
+   "distance_km": 4,
+   "profession": "KI-Engineer",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": true,
+   "minijob": false,
+   "homeoffice": true,
+   "salary": "14.0–19.0 €",
+   "start": "2026-10-22",
+   "published": "2026-10-22",
+   "updated": "2026-10-22T07:01:11.954",
+   "url": "https://www.empfehlungsbund.de/job/291700",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2917001792620001-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2917001792620001-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTE5NTYtMjkxNzAwMTc5MjYyMDAwMS1T",
+    "reference": "11956-2917001792620001-S",
+    "published_by": "Empfehlungsbund.de",
+    "published_by_url": "https://www.Empfehlungsbund.de",
+    "direct": false,
+    "original_url": "https://www.empfehlungsbund.de/job/291700",
+    "original_site": "empfehlungsbund.de",
+    "fetched_at": "2026-10-22T09:25:04+00:00"
+   },
+   "description": "Communardo ist führender Anbieter von Softwarelösungen und Beratungsleistungen für den digitalen Arbeitsplatz. Unser Herz schlägt für modernes Arbeiten, agile Prozesse, Kommunikation und Zusammenarbeit in Unternehmen. Unsere Expert\\*innen unterstützen Kund\\*innen aller Branchen bei der Auswahl der richtigen Software, realisieren intelligente Lösungen und entwickeln maßgeschneiderte Apps. Einführung und Betrieb der Lösungen begleiten wir durch Training und Change Management sowie Managed Services.\n\n### **Deine Rolle und deine Aufgaben**\n\n- Unterstützung bei der Einführung von KI-gestützten, automatisierten Prozessen im IT Department und IT Supportteam&nbsp;\n\n- Zentrale Schnittstelle für KI-Projekte bei Communardo&nbsp;\n\n- Mitarbeit an Themen rund um die stetige Verbesserung und Automatisierung der IT Toollandschaft\n\n- Standardisierung von Arbeitsabläufen und Erstellung interner Wissensdokumentationen&nbsp;\n\n- Weiterentwicklung bestehender Systeme und Vorgehen im IT Department\n\n### **Dein Profil und Deine Geschichte**\n\n- Studium der Betriebswirtschaftslehre, Informationssicherheit, Wirtschaftsinformatik oder ähnlicher Fachrichtung (ab dem 2. Semester)\n\n- Schnelle Auffassungsgabe für Abläufe und Funktionsweisen von IT-Anwendungen\n\n- Affinität für strukturierte Vorgehensweisen und gewissenhafte Detailarbeit\n\n- Eigenverantwortliche und strukturierte Arbeitsweise\n\n- Sehr gute Ausdrucksweise in deutscher Sprache in Wort und Schrift (C2) sowie sehr gute Englischkenntnisse (mindestens B2)\n\n- Idealerweise Grundkenntnisse in ISO 27001 oder SOC 2 und Erfahrung mit Jira/Atlassian\n\n- Verständnis für API-Schnittstellen und Offenheit für KI als Chance\n\n- Erste Erfahrung in der Automatisierung von repetitiven Tätigkeiten\n\n  \n  \nSchlagworte: Servicemanagement, Service-management, service-management, servicemanagement, Webservice, webservice, Support, support, AI, Systemingenieur, KI, Wirtschaftsinformatik, Servicemanager, systems-engineer, ISO, API, App, Service-Manager, service-manager, software-support, Empfehlungsbund  \nQuelle/Bewerbung via: [https://www.empfehlungsbund.de/jobs/291700/werkstudent-stern-in-it-und-ai-solutions-m-strich-w-strich-d](https://www.empfehlungsbund.de/jobs/291700/werkstudent-stern-in-it-und-ai-solutions-m-strich-w-strich-d#apply_form)  \n\n#### Kurzinfo zum Unternehmen\n\n**Smarter together!**\n\nCommunardo ist führender Anbieter von Softwarelösungen und Beratungsleistungen für den digitalen Arbeitsplatz. Unser Herz schlägt für modernes Arbeiten, agile Prozesse, Kommunikation und Zusammenarbeit in Unternehmen. Wir unterstützen Kund\\*innen aller Branchen bei der Auswahl der richtigen Software, realisieren intelligente Lösungen und entwickeln maßgeschneiderte Apps. Einführung und Betrieb der Lösungen begleiten wir durch Training und Change Management sowie Managed Services.\n\n",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-10-22T09:25:04+00:00",
+   "initial": false
   },
   {
    "id": "11956-1234981792188001-S",
@@ -6947,5 +6947,5 @@
    "initial": true
   }
  ],
- "took_s": 4.8
+ "took_s": 5.8
 }
