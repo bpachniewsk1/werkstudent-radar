@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-01T11:16:12+00:00",
+ "updated_at": "2026-11-01T20:30:07+00:00",
  "radius": 40,
- "count": 116,
+ "count": 117,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -4350,6 +4350,59 @@
    "initial": false
   },
   {
+   "id": "14927-dz4nmm-S",
+   "title": "Praktikum / Werkstudententätigkeit Auftragszentrum / Operat",
+   "company": "Eberspächer Gruppe GmbH & Co. KG",
+   "city": "Wilsdruff",
+   "district": "",
+   "plz": "01723",
+   "street": "",
+   "lat": 51.0524091,
+   "lon": 13.5252894,
+   "distance_km": 17,
+   "profession": "Logistiker/in",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": true,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-11-01",
+   "published": "2026-11-01",
+   "updated": "2026-11-01T13:03:57.846",
+   "url": "https://jobs4us.de/jobad/praktikum-werkstudententaetigkeit-auftragszentrum-operative-logistik-sommersemester-2026_dz4nmm",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14927-dz4nmm-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14927-dz4nmm-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTQ5MjctZHo0bm1tLVM=",
+    "reference": "14927-dz4nmm-S",
+    "published_by": "max reach HR Ltd.",
+    "published_by_url": "https://www.jobs4us.de",
+    "direct": false,
+    "original_url": "https://jobs4us.de/jobad/praktikum-werkstudententaetigkeit-auftragszentrum-operative-logistik-sommersemester-2026_dz4nmm",
+    "original_site": "jobs4us.de",
+    "fetched_at": "2026-11-01T20:30:07+00:00"
+   },
+   "description": " Lösungen für Clean Mobility von Purem by Eberspächer: Als Spezialist für Abgasreinigungs- und Akustiksysteme gestalten wir die saubere und leise Mobilität der Zukunft. Unsere innovativen Produkte verbessern die Luftqualität und reduzieren Verkehrslärm nachhaltig. Als führender Global Player bieten wir Lösungen für alle bedeutenden Pkw- und Nutzfahrzeughersteller. Sie wollen die Mobilität von morgen mitgestalten? In einem innovativen Tochterunternehmen der Eberspächer Gruppe? Bei uns können und dürfen Sie. Denn wir sind beständig auf Zukunftskurs. Das bedeutet für Sie: spannende Aufgabengebiete, jede Menge Spielräume und vielfältige Entwicklungsmöglichkeiten. ",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-10-05T13:16:11+00:00",
+   "initial": true
+  },
+  {
    "id": "18069-44473007-929-S",
    "title": "Working Student QA/QC Construction Projects (m/f/d)",
    "company": "exyte Management GmbH",
@@ -6152,5 +6205,5 @@
    "initial": true
   }
  ],
- "took_s": 3.8
+ "took_s": 5.7
 }
