@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T12:08:38+00:00",
+ "updated_at": "2026-11-04T21:53:16+00:00",
  "radius": 40,
  "count": 115,
  "jobs": [
@@ -266,6 +266,59 @@
    },
    "fit": 89,
    "first_seen": "2026-10-29T10:54:12+00:00",
+   "initial": false
+  },
+  {
+   "id": "20478-2371320-S",
+   "title": "Werkstudent Marketing & Kommunikation AI Competence Center (m/w/d)",
+   "company": "Deutsche Telekom MMS GmbH",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01129",
+   "street": "Riesaer Str. 5",
+   "lat": 51.082668,
+   "lon": 13.7257875,
+   "distance_km": 3,
+   "profession": "Techniker/in - Elektrotechnik (Informations- und Kommunikationstechnik)/Bachelor Professional in Technik",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": 15.0,
+   "hours_max": 19.0,
+   "hours_snippet": "Standort(e): Berlin, Dresden oder Leipzig Einstellungsart: Werkstudententätigkeit Wochenarbeitszeit: 15 bis 19 h/Woche Sprachkenntnisse: Deutsch und Englisch ### Das erwartet dich als Werkstudent (m/w/d) - Du hast die Möglichkeit die Mitarbeit in einem agilen Unternehmen kennenzulernen - Hierbei unterstützt du das AI Competence Center im Rahmen der Community Arbeit - Du wirkst bei der Organisation und Durchführung der AI Community Calls mit - Du berichtest insbesondere über Events und nutzt dafür unterschiedliche Kommunikationskanäle - Die Unterstützung des Marketingauftritts der MMS hinsichtlich der AI-Leistungen gehört ebenfalls zu deinen Aufgaben ### Das bringst du im Bereich Marketing & Kommunikation mit - Studium im Bereich Medieninformatik, Mediendesign, Grafikdesign, Marketing, BWL oder einer artverwandten Fachrichtung - Gute Kenntnisse mit MS Office - Kreative Ideen und ein gutes Auge für Details - Freude am Schreiben von kurzweiligen Texten - Selbstständige Arbeitsweise - Bereitschaft, Verantwortung zu übernehmen - Gute Kommunikationsfähigkeit - Interesse an Themen wie künstliche Intelligenz, Spaß daran neue Tools auszuprobieren - Teamfähigkeit, Zuverlässigkeit und eine strukturierte Arbeitsweise Ein Plus, kein Muss - Erfahrungen mit KI-Tools wie Microsoft Copilot, ChatGPT oder ähnlichen Anwendungen - Interesse an der Entwicklung von KI-gestützten Workflows, Automatisierungen oder Agenten - Du hast Interesse und/oder Vorkenntnisse im Bereich interne/externe Unternehmenskommunikation ### Unsere Benefits für dich - **Arbeitszeitmodell** \\- flexible Arbeitszeit - **Teamgeist** \\- mit positiven Vibes gemeinsam zum Erfolg - **Lernenden Community** \\- Austausch, Vernetzung & Feiern mit Gleichgesinnten - **Corporate Benefits** \\- Mitarbeitervorteile bei diversen Onlineshops, Fitnessstudios, Eventtickets... - **,,Come as you are\"** \\- bei uns gibt es keinen Dresscode - **Mehr als Kaffeekochen** \\- Entscheidungsspielräume und Verantwortung - **Entspannte Atmosphäre** \\- Start-Up Feeling im Telekom-Konzern - **Abschlussarbeit** \\- mit uns als innovativen Praxispartner - **Netzwerken** \\- Knüpfe wertvolle Kontakte für deinen Berufseinstieg Für ein Praktikum ist eine monatliche Vergütung vorgesehen, die sich nach Art und Dauer des Praktikums sowie dem Studienniveau/-art richtet und aktuell zwischen 600 EUR und 2.289 EUR/Monat (brutto) liegt. Für Werkstudierende ist eine Vergütung von 14 EUR bis 18 EUR/Stunde (brutto) vorgesehen. Die konkrete Einordnung erfolgt auf Basis objektiver und geschlechtsneutraler Kriterien, insbesondere Studienart/-niveau, fachlicher Qualifikation und individueller Leistung. Bei uns zählt der Mensch. Wir setzen uns aktiv für Entgeltgleichheit ein und gestalten unsere Vergütungsstrukturen transparent und diskriminierungsfrei. Unabhängig von Geschlecht, ethnischer Herkunft, Religion, Alter, sexueller Identität oder Behinderung leben wir Vielfalt und lehnen jede Form von Diskriminierung ab. ### Bist du dabei? Dann bewirb dich und zeig uns, wer du bist! Du hast noch Fragen oder suchst nach fachspezifischen Informationen? Zögere nicht und kontaktiere mich. Janin Brückner Telefon/ WhatsApp: +49 351 \\- 2820 \\- 7555",
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-11-04",
+   "published": "2026-11-04",
+   "updated": "2026-11-04T17:35:20.364",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2371320-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2371320-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2371320-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MjA0NzgtMjM3MTMyMC1T",
+    "reference": "20478-2371320-S",
+    "published_by": "Deutsche Telekom MMS GmbH",
+    "published_by_url": "https://www.telekom-mms.com",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-04T21:53:16+00:00"
+   },
+   "description": "### Mitwirkung im AI Competence Center: Community, Events & Marketing\n  \n\nJährlich mehr als 3.000 Kundenprojekte, 2.100 großartige Kolleg*innen, 10 attraktive Standorte \\- und mittendrin: Du. Mit der Telekom MMS gemeinsam für eine digitalisierte, zukunftsfähige und lebenswerte Welt. Dein Job. Für morgen. Und übermorgen.\n\nStandort(e): Berlin, Dresden oder Leipzig\nEinstellungsart: Werkstudententätigkeit\nWochenarbeitszeit: 15 bis 19 h/Woche\nSprachkenntnisse: Deutsch und Englisch \n\n \n### Das erwartet dich als Werkstudent (m/w/d)\n\n \n\n\n- Du hast die Möglichkeit die Mitarbeit in einem agilen Unternehmen kennenzulernen\n- Hierbei unterstützt du das AI Competence Center im Rahmen der Community Arbeit\n- Du wirkst bei der Organisation und Durchführung der AI Community Calls mit\n- Du berichtest insbesondere über Events und nutzt dafür unterschiedliche Kommunikationskanäle\n- Die Unterstützung des Marketingauftritts der MMS hinsichtlich der AI-Leistungen gehört ebenfalls zu deinen Aufgaben\n\n\n\n### Das bringst du im Bereich Marketing & Kommunikation mit\n\n \n\n\n- Studium im Bereich Medieninformatik, Mediendesign, Grafikdesign, Marketing, BWL oder einer artverwandten Fachrichtung\n- Gute Kenntnisse mit MS Office\n- Kreative Ideen und ein gutes Auge für Details\n- Freude am Schreiben von kurzweiligen Texten\n- Selbstständige Arbeitsweise\n- Bereitschaft, Verantwortung zu übernehmen\n- Gute Kommunikationsfähigkeit\n- Interesse an Themen wie künstliche Intelligenz, Spaß daran neue Tools auszuprobieren\n- Teamfähigkeit, Zuverlässigkeit und eine strukturierte Arbeitsweise\n\n  \n\nEin Plus, kein Muss \n\n\n- Erfahrungen mit KI-Tools wie Microsoft Copilot, ChatGPT oder ähnlichen Anwendungen\n- Interesse an der Entwicklung von KI-gestützten Workflows, Automatisierungen oder Agenten\n- Du hast Interesse und/oder Vorkenntnisse im Bereich interne/externe Unternehmenskommunikation\n\n\n\n### Unsere Benefits für dich\n\n \n\n\n- **Arbeitszeitmodell** \\- flexible Arbeitszeit\n- **Teamgeist** \\- mit positiven Vibes gemeinsam zum Erfolg\n- **Lernenden Community** \\- Austausch, Vernetzung & Feiern mit Gleichgesinnten\n- **Corporate Benefits** \\- Mitarbeitervorteile bei diversen Onlineshops, Fitnessstudios, Eventtickets...\n- **,,Come as you are\"** \\- bei uns gibt es keinen Dresscode\n- **Mehr als Kaffeekochen** \\- Entscheidungsspielräume und Verantwortung\n- **Entspannte Atmosphäre** \\- Start-Up Feeling im Telekom-Konzern\n- **Abschlussarbeit** \\- mit uns als innovativen Praxispartner\n- **Netzwerken** \\- Knüpfe wertvolle Kontakte für deinen Berufseinstieg\n\n  \n\nFür ein Praktikum ist eine monatliche Vergütung vorgesehen, die sich nach Art und Dauer des Praktikums sowie dem Studienniveau/-art richtet und aktuell zwischen 600 EUR und 2.289 EUR/Monat (brutto) liegt. Für Werkstudierende ist eine Vergütung von 14 EUR bis 18 EUR/Stunde (brutto) vorgesehen. Die konkrete Einordnung erfolgt auf Basis objektiver und geschlechtsneutraler Kriterien, insbesondere Studienart/-niveau, fachlicher Qualifikation und individueller Leistung. \n\nBei uns zählt der Mensch. Wir setzen uns aktiv für Entgeltgleichheit ein und gestalten unsere Vergütungsstrukturen transparent und diskriminierungsfrei. Unabhängig von Geschlecht, ethnischer Herkunft, Religion, Alter, sexueller Identität oder Behinderung leben wir Vielfalt und lehnen jede Form von Diskriminierung ab. \n\n \n### Bist du dabei?\n  \n\nDann bewirb dich und zeig uns, wer du bist! \n\nDu hast noch Fragen oder suchst nach fachspezifischen Informationen? Zögere nicht und kontaktiere mich. \n\nJanin Brückner\nTelefon/ WhatsApp: +49 351 \\- 2820 \\- 7555",
+   "is_student_job": true,
+   "category": "Marketing & Communication",
+   "emoji": "📣",
+   "scores": {
+    "econ": 0.74,
+    "hours": 1.0,
+    "student": 1.0
+   },
+   "fit": 85,
+   "first_seen": "2026-11-04T21:53:16+00:00",
    "initial": false
   },
   {
@@ -797,59 +850,6 @@
    "fit": 63,
    "first_seen": "2026-10-22T09:25:04+00:00",
    "initial": false
-  },
-  {
-   "id": "10001-1003802289-S",
-   "title": "Werkstudent Assistenz Unterrichtsgestaltung (w/*/m)",
-   "company": "queo GmbH    ",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01159",
-   "street": "Tharandter Str. 13",
-   "lat": 51.040413,
-   "lon": 13.7045115,
-   "distance_km": 5,
-   "profession": "Pädagoge/Pädagogin",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": 15.0,
-   "hours_max": 19.0,
-   "hours_snippet": "**Start:** ab Januar 2027 **Umfang:** 15-19 Stunden/Woche **Vergütung:** 15-16 €/Stunde ### Deine Aufgaben im Projekt Social Web macht Schule - Schulkommunikation und Projektmanagement - Entwicklung von Unterrichtsentwürfen anhand von Vorlagen und Leitlinien - Unterstützung bei der Organisation der Trainer\\*innen-Austauschrunde - in Ausnahmefällen: Mitwirkung bei Veranstaltungen vor Ort ### Deine Stärken - selbstbewusstes Auftreten und proaktive Kommunikation - sorgfältige, selbstständige und gewissenhafte Arbeitsweise: Du hältst dich zuverlässig an Absprachen und Leitfäden - fortgeschrittenes oder idealerweise bereits abgeschlossenes Studium in einem für die Arbeit relevanten Fachbereich (z.B. Geistes-, Sozialwissenschaften oder Lehramt) oder vergleichbare Ausbildung - erste Erfahrungen in der Planung und Durchführung von Workshops mit Kindern und/oder Jugendlichen wünschenswert ### Das bekommst du von uns - eine sorgfältige Einarbeitung - Kennenlernen von medienpädagogischen Projekten sowie methodischer Vielfalt bei der Unterrichtsgestaltung - ein Team, in dem deine Meinung zählt und du dein Potenzial entfalten kannst - eine sinnstiftende Tätigkeit, die die Welt zu einem besseren Ort macht - verantwortungsvolle Aufgaben in einem sozialen Unternehmen, an denen du wachsen kannst - flexible Arbeitszeiten unter Berücksichtigung deines Stundenplans ### Du mit Social Web macht Schule & queo Wir queos sind Teamplayer. Mit individuellen Fähigkeiten und gemeinsamen Zielen bringen wir unsere Projekte zum nächsten Level. Freiräume, Mitgestaltung und Weiterentwicklung sind uns wichtig. So nutzen wir individuelle Stärken und bauen sie aus. Den Erfolg haben wir dabei fest im Blick. Und den feiern wir auch gern gemeinsam – im Sommer, im Winter oder einfach nach Feierabend. Begleite uns als Werkstudent (w/\\*/m) für unser Medienkompetenz-Projekt und gestalte den Status queo mit! ### Unser Weg miteinander Du als neue\\*r queo-Werkstudent\\*in Assistenz Unterrichtsgestaltung für *Social Web macht Schule* in Dresden. So fängt unser gemeinsamer Weg an. Erzähl uns von deinen Plänen! Bewirb dich einfach unter [jobs@queo-group.com](https://mailto:jobs@queo-group.com) oder nutze unser Bewerbungsformular. Wie wir mit deinen personenbezogenen Daten im Bewerbungsverfahren umgehen, kannst du hier nachlesen: [https://www.queo.de/datenschutz](https://www.queo.de/datenschutz)",
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": false,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": "15–16 €",
-   "start": "2027-01-04",
-   "published": "2026-10-05",
-   "updated": "2026-10-08T10:34:24.291",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003802289-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003802289-S",
-   "external": false,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003802289-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTAwMDEtMTAwMzgwMjI4OS1T",
-    "reference": "10001-1003802289-S",
-    "published_by": "arbeitsagentur.de",
-    "published_by_url": "https://www.arbeitsagentur.de",
-    "direct": true,
-    "original_url": null,
-    "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-08T11:22:28+00:00"
-   },
-   "description": "## Du als Werkstudent (w/\\*/m) Assistenz Unterrichtsgestaltung\n\nDu willst, dass Medienkompetenz-Unterricht nicht nur gut gemeint, sondern auch gut gemacht ist? In unserer gemeinnützigen Gesellschaft [Social Web macht Schule](https://www.social-web-macht-schule.de/) entwickelst du Unterrichtsentwürfe mit, die unsere Trainer\\*innen sachsenweit in Schulen einsetzen und sorgst außerdem dafür, dass sich unser Trainer\\*innen-Team regelmäßig austauscht und voneinander lernt.\n\n**Hinweis:** Da wir eng im Team arbeiten und Materialien vor Ort abstimmen, ist für die Stelle zwingend die Präsenz bei uns im Office in Dresden notwendig. Nach deiner Einarbeitungszeit ist in Ausnahmefällen das Remote-Arbeiten an einzelnen Tagen möglich. Aufgrund des Einarbeitungsaufwandes ist es außerdem notwendig, dass du uns deine Verfügbarkeit für einen Zeitraum von **mindestens 12 Monaten** zusichern kannst.\n\n**Start:** ab Januar 2027 **Umfang:** 15-19 Stunden/Woche **Vergütung:** 15-16 €/Stunde\n\n### Deine Aufgaben im Projekt Social Web macht Schule\n\n- Schulkommunikation und Projektmanagement\n- Entwicklung von Unterrichtsentwürfen anhand von Vorlagen und Leitlinien\n- Unterstützung bei der Organisation der Trainer\\*innen-Austauschrunde\n- in Ausnahmefällen: Mitwirkung bei Veranstaltungen vor Ort\n\n### Deine Stärken\n\n- selbstbewusstes Auftreten und proaktive Kommunikation\n- sorgfältige, selbstständige und gewissenhafte Arbeitsweise: Du hältst dich zuverlässig an Absprachen und Leitfäden\n- fortgeschrittenes oder idealerweise bereits abgeschlossenes Studium in einem für die Arbeit relevanten Fachbereich (z.B. Geistes-, Sozialwissenschaften oder Lehramt) oder vergleichbare Ausbildung\n- erste Erfahrungen in der Planung und Durchführung von Workshops mit Kindern und/oder Jugendlichen wünschenswert\n\n### Das bekommst du von uns\n\n- eine sorgfältige Einarbeitung\n- Kennenlernen von medienpädagogischen Projekten sowie methodischer Vielfalt bei der Unterrichtsgestaltung\n- ein Team, in dem deine Meinung zählt und du dein Potenzial entfalten kannst\n- eine sinnstiftende Tätigkeit, die die Welt zu einem besseren Ort macht\n- verantwortungsvolle Aufgaben in einem sozialen Unternehmen, an denen du wachsen kannst\n- flexible Arbeitszeiten unter Berücksichtigung deines Stundenplans\n\n### Du mit Social Web macht Schule & queo\n\nWir queos sind Teamplayer. Mit individuellen Fähigkeiten und gemeinsamen Zielen bringen wir unsere Projekte zum nächsten Level. Freiräume, Mitgestaltung und Weiterentwicklung sind uns wichtig. So nutzen wir individuelle Stärken und bauen sie aus. Den Erfolg haben wir dabei fest im Blick. Und den feiern wir auch gern gemeinsam – im Sommer, im Winter oder einfach nach Feierabend. Begleite uns als Werkstudent (w/\\*/m) für unser Medienkompetenz-Projekt und gestalte den Status queo mit!\n\n### Unser Weg miteinander\n\nDu als neue\\*r queo-Werkstudent\\*in Assistenz Unterrichtsgestaltung für *Social Web macht Schule* in Dresden. So fängt unser gemeinsamer Weg an. Erzähl uns von deinen Plänen!\n\nBewirb dich einfach unter [jobs@queo-group.com](https://mailto:jobs@queo-group.com) oder nutze unser Bewerbungsformular.\n\nWie wir mit deinen personenbezogenen Daten im Bewerbungsverfahren umgehen, kannst du hier nachlesen: [https://www.queo.de/datenschutz](https://www.queo.de/datenschutz)",
-   "is_student_job": true,
-   "category": "Office & Administration",
-   "emoji": "🗂️",
-   "scores": {
-    "econ": 0.35,
-    "hours": 1.0,
-    "student": 1.0
-   },
-   "fit": 61,
-   "first_seen": "2026-10-05T13:16:11+00:00",
-   "initial": true
   },
   {
    "id": "11956-3076991793401201-S",
@@ -6099,5 +6099,5 @@
    "initial": true
   }
  ],
- "took_s": 6.6
+ "took_s": 4.4
 }
