@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T12:06:40+00:00",
+ "updated_at": "2026-11-06T21:29:25+00:00",
  "radius": 40,
  "count": 110,
  "jobs": [
@@ -2283,59 +2283,6 @@
    "initial": false
   },
   {
-   "id": "13644-256057-S",
-   "title": "Initiativbewerbung Studentische Tätigkeiten",
-   "company": "secunet",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01069",
-   "street": "",
-   "lat": 51.0396631,
-   "lon": 13.7363086,
-   "distance_km": 4,
-   "profession": "IT-Sicherheitskoordinator/in",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": false,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-10-27",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T07:01:08.823",
-   "url": "https://www.get-in-it.de/jobsuche/p256057?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-256057-S",
-   "external": true,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-256057-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTM2NDQtMjU2MDU3LVM=",
-    "reference": "13644-256057-S",
-    "published_by": "get in GmbH",
-    "published_by_url": "https://www.get-in-IT.de",
-    "direct": false,
-    "original_url": "https://www.get-in-it.de/jobsuche/p256057?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
-    "original_site": "get-in-it.de",
-    "fetched_at": "2026-10-27T09:49:03+00:00"
-   },
-   "description": "Für unser hoch motiviertes Team suchen wir für unsere Standorte in Berlin, Borchen, Dresden, Eschborn, Essen, Hamburg, Ilmenau, München und Siegen zum nächstmöglichen Zeitpunkt Deinen klugen Kopf.\n\n## Deine Aufgabe\n\n- Studentische Hilfstätigkeit\n- Abschlussarbeiten\n- Praktika\n\n## Dein Profil\n\n- Studium im Bereich der Informatik oder ähnliches\n- Großes Interesse an IT-Sicherheit oder an verwandten Themen\n- Sicherer Umgang mit MS-Office\n- Selbständige und verantwortungsbewusste Arbeitsweise\n\n## Unser Angebot\n\n- Spannende Herausforderungen und die Möglichkeit, interessante Aufgaben im Bereich der IT-Sicherheit kennen zu lernen\n- Unterstützung durch ein kompetentes Team\n- Flexible Arbeitszeitgestaltung\n\n## Dein Kontakt zu uns\n\nsecunet Security Networks AG\n\nFrau Beatrice Mungen\n\nKurfürstenstraße 58\n\n45138 Essen\n\nTelefon: +49 201 5454-0\n\nWenn Du gern an der Spitze der technologischen Entwicklung arbeiten möchtest, in einem Klima, das von Vertrauen und Fairness geprägt ist, sollten wir uns kennen lernen. Wir freuen uns auf Deine vollständige Bewerbung.",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.03,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 30,
-   "first_seen": "2026-10-05T13:16:11+00:00",
-   "initial": true
-  },
-  {
    "id": "19220-fedfe0ffaa4ccb94-S",
    "title": "Studentenjob im Verkauf 9-14 Std./Woche Teilzeit (m/w/d)",
    "company": "Lidl Dienstleistung GmbH & Co. KG",
@@ -2382,6 +2329,59 @@
    "scores": {
     "econ": 0.05,
     "hours": 0.5,
+    "student": 1.0
+   },
+   "fit": 30,
+   "first_seen": "2026-10-05T13:16:11+00:00",
+   "initial": true
+  },
+  {
+   "id": "13644-256057-S",
+   "title": "Initiativbewerbung Studentische Tätigkeiten",
+   "company": "secunet",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01069",
+   "street": "",
+   "lat": 51.0396631,
+   "lon": 13.7363086,
+   "distance_km": 4,
+   "profession": "IT-Sicherheitskoordinator/in",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-10-27",
+   "published": "2026-10-27",
+   "updated": "2026-10-27T07:01:08.823",
+   "url": "https://www.get-in-it.de/jobsuche/p256057?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-256057-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-256057-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTM2NDQtMjU2MDU3LVM=",
+    "reference": "13644-256057-S",
+    "published_by": "get in GmbH",
+    "published_by_url": "https://www.get-in-IT.de",
+    "direct": false,
+    "original_url": "https://www.get-in-it.de/jobsuche/p256057?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+    "original_site": "get-in-it.de",
+    "fetched_at": "2026-10-27T09:49:03+00:00"
+   },
+   "description": "Für unser hoch motiviertes Team suchen wir für unsere Standorte in Berlin, Borchen, Dresden, Eschborn, Essen, Hamburg, Ilmenau, München und Siegen zum nächstmöglichen Zeitpunkt Deinen klugen Kopf.\n\n## Deine Aufgabe\n\n- Studentische Hilfstätigkeit\n- Abschlussarbeiten\n- Praktika\n\n## Dein Profil\n\n- Studium im Bereich der Informatik oder ähnliches\n- Großes Interesse an IT-Sicherheit oder an verwandten Themen\n- Sicherer Umgang mit MS-Office\n- Selbständige und verantwortungsbewusste Arbeitsweise\n\n## Unser Angebot\n\n- Spannende Herausforderungen und die Möglichkeit, interessante Aufgaben im Bereich der IT-Sicherheit kennen zu lernen\n- Unterstützung durch ein kompetentes Team\n- Flexible Arbeitszeitgestaltung\n\n## Dein Kontakt zu uns\n\nsecunet Security Networks AG\n\nFrau Beatrice Mungen\n\nKurfürstenstraße 58\n\n45138 Essen\n\nTelefon: +49 201 5454-0\n\nWenn Du gern an der Spitze der technologischen Entwicklung arbeiten möchtest, in einem Klima, das von Vertrauen und Fairness geprägt ist, sollten wir uns kennen lernen. Wir freuen uns auf Deine vollständige Bewerbung.",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.03,
+    "hours": 0.55,
     "student": 1.0
    },
    "fit": 30,
@@ -3364,9 +3364,9 @@
    "minijob": false,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-10-30",
+   "start": "2026-11-06",
    "published": "2026-03-19",
-   "updated": "2026-10-30T18:06:54.064",
+   "updated": "2026-11-06T18:08:00.466",
    "url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-fuer-die-planung-von-ver-und-entsorgungsanlagen--job--104505.html?tc=3-11",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11959-104505-S",
    "external": true,
@@ -3380,7 +3380,7 @@
     "direct": false,
     "original_url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-fuer-die-planung-von-ver-und-entsorgungsanlagen--job--104505.html?tc=3-11",
     "original_site": "der-stellenmarkt.de",
-    "fetched_at": "2026-10-30T20:47:50+00:00"
+    "fetched_at": "2026-11-06T21:29:25+00:00"
    },
    "description": "WERKSTUDENT (M/W/D) FÜR DIE PLANUNG VON VER- UND ENTSORGUNGSANLAGEN\n\n [https://www.iproconsult.com] \n\n Dresden \n\n ab sofort \n\n Teilzeit \n\nZur Verstärkung unseres Teams in Dresden suchen wir engagierte WERKSTUDENTEN (m/w/d) für die PLANUNG VON VER- UND ENTSORGUNGSANLAGEN in Außenanlagen (vorrangig Regenwasser-, Schmutzwasser- und Trinkwasseranlagen sowie Tiefbauleistungen verschiedener anderer Gewerke). \n\nIhr Beitrag \n\n\t• Unterstützung der Ver- und Entsorgungsanlagenplanung für Städte und Kommunen, Industrie-, Gewerbe- und Wohngebiete mit dem inhaltlichen Schwerpunkt auf wasserwirtschaftlichen Anlagen \n\n \t• Abwasserkanäle und dazugehörige technische Anlagen\n \t• Speicherung, Rückhalt, Nutzung und Entsorgung von Regenwasser inkl. notwendiger Anlagen wie Regenrückhaltebecken, Zisternen sowie Versickerungs- und Verdunstungsanlagen\n \t• Berechnung von Trinkwassernetzen und deren technischer Ausführung\n \t• Koordinierung von Tiefbauleistungen der Trassen für Fernwärme, Elektro, Gas und Telekommunikation\n \t• Innovative Lösungen für besondere Anforderungen einzelner Kunden\n\n \t• Mitarbeit bei der Erarbeitung der Leistungsphasen 1-5 gemäß HOAI in der Objektplanung Ingenieurbauwerke\n \t• Ein Tutor begleitet Sie fachlich bei der Tätigkeit und hilft ebenfalls bei organisatorischen Fragen in unserem (großen) Unternehmen\n\nIhr Profil \n\n \t• Sie studieren Wasserwirtschaft oder Bauingenieurwesen/Umweltingenieurwesen mit Vertiefungsrichtung Wasserwirtschaft\n \t• Erste Erfahrung im Umgang mit Zeichenprogrammen und hydraulischer Modellierung (beispielsweise AutoCAD, Hystem Extran, ModFlow, STANET)\n \t• Sicherer Umgang mit MS Office Programmen\n \t• Bereitschaft zur Einarbeitung in Fachsoftware\n\nUnser Angebot \n\n \t• KOOPERATION: 400 Spezialisten an 12 nationalen und zwei internationalen Standorten\n \t• ERFAHRUNG: über 70 Jahre innovative Planungskompetenz in Architektur und Ingenieurwesen\n \t• BERUFSPERSPEKTIVEN: Weiterbildungen, Feedbackgespräche, Workshops, Aufstiegschancen zum Projektleiter und Führungsperson\n \t• UMWELTBEWUSSTSEIN: 30 % Zuschuss zum Deutschlandticket, JobRad (Fahrradleasing), Jobroller-Leasing, nachhaltiges Einkaufsmanagement\n \t• GESUNDHEIT: 30 Tage Erholungsurlaub zzgl. vier Kulanztage, Vorsorgeuntersuchungen, diverse Mitarbeitervorteile, Zuschuss zum WELLPASS (Sportangebot)\n \t• GEMEINSCHAFT: mehrmals jährlich stattfindende Firmenevents (6x fest geplant), individuelle Team-Ausflüge\n \t• MODERNE ARBEITSBEDINGUNGEN: Gleitzeit ohne Kernarbeitszeiten, mobiles Arbeiten, Zuschuss zu Kitagebühren, Rücksichtnahme auf Familien, 2-3 Personen-Büros mit ergonomischen Arbeitsplätzen\n\nUnser HAUPTSITZ IN DRESDEN ist sehr gut an das öffentliche Verkehrsnetz angeschlossen und in wenigen Minuten von den Haltestellen Hauptbahnhof und Lennéplatz fußläufig erreichbar. Es gibt zahlreiche überdachte Fahrradstellplätze sowie einen abschließbaren Fahrradkeller. Für das leibliche Wohl sorgt mit abwechslungsreichen Speisen das firmeneigene Betriebsrestaurant. \n\nErfahren Sie mehr über uns: www.iproconsult.com/karriere [https://www.iproconsult.com/karriere] \n\nKontakt Jetzt bewerben [https://apply.jcd.de/Apply.php?iJobAdID=104505&tc=3-11] \n\nIhr Ansprechpartner für Rückfragen \n\nNils Gardlo \n\nTeam Personalwesen \n\nTel. +49 351 / 46 51 677 \n\n IPROconsult GmbH\n Schnorrstraße 70\n 01069 Dresden → www.iproconsult.com [https://www.iproconsult.com] \n ",
    "is_student_job": true,
@@ -5834,5 +5834,5 @@
    "initial": true
   }
  ],
- "took_s": 6.7
+ "took_s": 5.1
 }
