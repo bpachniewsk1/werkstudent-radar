@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T11:03:52+00:00",
+ "updated_at": "2026-11-07T20:14:44+00:00",
  "radius": 40,
  "count": 111,
  "jobs": [
@@ -661,9 +661,9 @@
    "minijob": false,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-10-11",
+   "start": "2026-11-07",
    "published": "2026-08-14",
-   "updated": "2026-10-11T07:10:38.274",
+   "updated": "2026-11-07T12:31:21.441",
    "url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Personalentwicklung-1301710?cp=BA",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2314274-S",
    "external": true,
@@ -677,7 +677,7 @@
     "direct": false,
     "original_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Personalentwicklung-1301710?cp=BA",
     "original_site": "finest-jobs.com",
-    "fetched_at": "2026-10-11T10:49:38+00:00"
+    "fetched_at": "2026-11-07T20:14:44+00:00"
    },
    "description": "Wir lassen Visionen wahr werden ... Die Dorsch Service GmbH (DS) ist Teil der Dorsch Europe, einer der größten Beratungs- und Ingenieurgruppen Deutschlands mit rund 1.500 Mitarbeitenden an 26 Standorten. Als interner Dienstleister bietet die DS zentrale Services für alle operativen Gesellschaften der Gruppe und ermöglicht so effiziente, reibungslose Abläufe. Was genau Deine Aufgaben bei uns sein werden, legen wir gemeinsam im Team fest - abgestimmt auf Deine Interessen, Vorkenntnisse und das, was Du gerne dazulernen möchtest. So kannst Du Dich aktiv einbringen und gleichzeitig weiterentwickeln. Wir suchen Dich für unser Team Personalentwicklung. In dieser Rolle bieten wir Ihnen die Möglichkeit, deutschlandweit remote zu arbeiten oder an unserem Standort in München vor Ort tätig zu sein. Ihre Aufgaben Administrative Unterstützung bei der Organisation und Betreuung der internen AKADEMIE Mitarbeit bei der Planung und Durchführung von Schulungen und Workshops Erstellung von Unterlagen, Präsentationen und Auswertungen Teilnehmermanagement inkl. Pflege des Veranstaltungstools  Kommunikation mit externen Trainern und internen Stakeholdern Unterstützung bei weiteren Projekten im Bereich Personalentwicklung Ihr Profil Studium der Betriebswirtschaftslehre oder eines verwandten Fachgebiets Interesse an Personalentwicklung und Weiterbildung Strukturierte und selbstständige Arbeitsweise Gute organisatorische Fähigkeiten und Teamgeist Sicherer Umgang mit MS Office (insbesondere Excel und Word) und IT-Anwendungen Sehr gute Deutschkenntnisse in Wort und Schrift Unsere Benefits Work-Life-Balance - flexible Arbeitszeiten, mobiles Arbeiten sowie Überstundenausgleich und attraktive Bürostandorte Wellbeing & Gesundheit - geförderter EGYM Wellpass (verschiedene Fitness- und Wellness Angebote, 6.000+ Partner im Sport- und Wellnessbereich, 2.000+ Online Kurse zu Bewegung, Ernährung und Mediation)  Familienfreundlich - pme Familienservice - Lösungen für ein erfolgreiches Arbeits+Leben (z.B. Unterstützung bei der Kita Suche, Mental Health) AKADEMIE - zahlreiche Weiterbildungsangebote über unsere unternehmenseigene AKADEMIE Corporate Benefits - Vergünstigungen auf Produkte und Dienstleistungen namhafter Anbieter Engagement & Nachhaltigkeit - Mitarbeitende werben Mitarbeitende Programm mit Prämien z. B. zu Nachhaltigkeit oder humanitärer Unterstützung Weitere Benefits - Kaffee Flat, Sommer- und Weihnachtsfeiern Überzeugt? Wunderbar! Dann bewerben Sie sich noch heute. Wir freuen uns auf Ihre Bewerbung. Ihr Dorsch Recruitingteam",
    "is_student_job": true,
@@ -5887,5 +5887,5 @@
    "initial": true
   }
  ],
- "took_s": 4.0
+ "took_s": 4.8
 }
