@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-10T12:39:41+00:00",
+ "updated_at": "2026-11-10T21:48:48+00:00",
  "radius": 40,
- "count": 112,
+ "count": 113,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -5092,6 +5092,59 @@
    "initial": true
   },
   {
+   "id": "16538-NHT36URKNzhcsk-S",
+   "title": "Aushilfe / Student / Minijob m/w/d Verkaufsteam in Heidenau",
+   "company": "Smyths Toys Deutschland SE & Co. KG",
+   "city": "Heidenau, Sachsen",
+   "district": "",
+   "plz": "01809",
+   "street": "Hauptstrasse 3",
+   "lat": 50.977647000001,
+   "lon": 13.8560535,
+   "distance_km": 13,
+   "profession": "Verkäufer/in",
+   "type": "ARBEIT",
+   "hours_min": 30.0,
+   "hours_max": 30.0,
+   "hours_snippet": "Optionen: Minijob, Student, Teilzeit, Stunden nach Absprache bis 30 Stunden pro Woche möglich.",
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": "180.0 €",
+   "start": "2026-11-10",
+   "published": "2026-11-10",
+   "updated": "2026-11-10T18:07:37.994",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16538-NHT36URKNzhcsk-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16538-NHT36URKNzhcsk-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16538-NHT36URKNzhcsk-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTY1MzgtTkhUMzZVUktOemhjc2stUw==",
+    "reference": "16538-NHT36URKNzhcsk-S",
+    "published_by": "Smyths Toys Deutschland SE &Co. KG",
+    "published_by_url": "https://www.smythstoys.com",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-10T21:48:48+00:00"
+   },
+   "description": "Setze Deine Erfahrungen und Talente ab sofort oder nach Absprache bis voraussichtlich Ende Januar 2027 in unserem Store in Heidenau ein.\n\nOptionen: Minijob, Student, Teilzeit, Stunden nach Absprache bis 30 Stunden pro Woche möglich.\n\n##  \n\n**DAS SIND DEINE AUFGABEN**\n\n\\- Kunden helfen, beraten und dadurch begeistern\n\n\\- Ware einräumen und attraktiv präsentieren\n\n\\- Kassieren und Retouren durchführen\n\n\\- Bestellungen und Kundenanfragen bearbeiten\n\n##  \n\n**DAS BRINGST DU MIT**\n\n\\- Handwerkliches Geschick und technisches Interesse\n\n\\- Positive Arbeitseinstellung und Du packst gerne mit an\n\n\\- Zuverlässigkeit und Engagement\n\n\\- Flexibilität im Rahmen unserer Öffnungszeiten\n\nErfahrungen im Verkauf und/oder im Kassenbereich sind wünschenswert, aber keine notwendige Voraussetzung.\n\n##  \n\n**DAS BIETEN WIR DIR**\n\n\\- Spannende Aufgaben und ein abwechslungsreiches Umfeld\n\n\\- Eine gute Einarbeitung und Schulungsmöglichkeiten\n\n\\- Transparente Dienstplanung und minutengenaue Arbeitszeiterfassung\n\n\\- 15,00 Euro Stundenlohn, Mitarbeiterrabatt und Vergünstigungen",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.1,
+    "student": 1.0
+   },
+   "fit": 18,
+   "first_seen": "2026-11-10T21:48:48+00:00",
+   "initial": false
+  },
+  {
    "id": "11956-3092121794006000-S",
    "title": "Volkssolidarität Dresden: WERKSTUDENT AUSBILDUNGSKOORDINATION (M/W/D)",
    "company": "Volkssolidarität Dresden",
@@ -5940,5 +5993,5 @@
    "initial": true
   }
  ],
- "took_s": 4.3
+ "took_s": 4.7
 }
