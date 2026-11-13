@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-12T22:14:47+00:00",
+ "updated_at": "2026-11-13T12:12:35+00:00",
  "radius": 40,
- "count": 109,
+ "count": 107,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -110,7 +110,7 @@
    "initial": false
   },
   {
-   "id": "19006-k61127.1440-S",
+   "id": "19006-k61127.1472-S",
    "title": "Praktikant/Werkstudent Digitalisierung von Vertriebsprozessen mit Office 365 (m/w/d)",
    "company": "PRETTL Electronics GmbH",
    "city": "Radeberg, Sachsen",
@@ -131,23 +131,23 @@
    "minijob": false,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-10-27",
-   "published": "2026-10-06",
-   "updated": "2026-10-26T17:35:31.591",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1440-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1440-S",
+   "start": "2026-11-14",
+   "published": "2026-11-13",
+   "updated": "2026-11-13T10:32:22.759",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1472-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1472-S",
    "external": false,
    "source": {
     "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1440-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTkwMDYtazYxMTI3LjE0NDAtUw==",
-    "reference": "19006-k61127.1440-S",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19006-k61127.1472-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTkwMDYtazYxMTI3LjE0NzItUw==",
+    "reference": "19006-k61127.1472-S",
     "published_by": "PRETTL Electronics GmbH",
     "published_by_url": "https://www.prettl-electronics.com",
     "direct": false,
     "original_url": null,
     "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-26T16:47:54+00:00"
+    "fetched_at": "2026-11-13T12:12:35+00:00"
    },
    "description": "\n\n# Praktikant/Werkstudent Digitalisierung von Vertriebsprozessen mit Office 365 (m/w/d) in Radeberg \n\nDie PRETTL Electronics Gruppe mit Hauptsitz in Radeberg ist einer der führenden deutschen Systemanbieter für Electronics Manufacturing Services (EMS). Als Fullservice-Partner reicht unser Leistungsspektrum von professionellen Lösungen für Entwicklung, Prototyping, Produktion, Logistik und After-Sales-Service bis über innovative Prozesse für Industrialisierung, Obsoleszenzmanagement und ReDesign. Zahlreiche Zertifizierungen garantieren einen qualitativ hochwertigen Support mit dem Fokus auf Energietechnik, Komponenten für Ladeinfrastruktur, Medizintechnik und Industrie. Das Unternehmen betreibt sechs Fertigungsstandorte in fünf Ländern. Die PRETTL Electronics gehört zur PRETTL Group – einem familiengeführten Unternehmen in dritter Generation.\n\n# Dein zukünftiges Aufgabengebiet als Praktikant/Werkstudent (m/w/d) Digitalisierung von Vertriebsprozessen mit Office 365\n\n- Unterstützung bei der Digitalisierung und Automatisierung von Vertriebsprozessen\n- Mitarbeit bei der Bearbeitung von Kundenanfragen und der Lead-Steuerung\n- Aufbau und Pflege von SharePoint-Seiten, Microsoft Lists und Planner-Boards zur strukturierten Aufgabenverfolgung\n- Erstellung von Workflows zur Prozessoptimierung mit Power Automate\n- Dokumentation und Visualisierung von Vertriebsprozessen\n- Unterstützung bei der Einführung digitaler Tools im Vertriebsteam\n\n# Dein Profil\n\n- Laufendes Studium im Bereich Betriebswirtschaft, Wirtschaftsingenieurwesen, Wirtschaftsinformatik oder vergleichbar\n- Interesse an digitalen Tools und modernen Arbeitsmethoden\n- Erste Erfahrungen mit Microsoft 365 (insb. SharePoint, Planner, Lists, Teams) von Vorteil\n- Selbstständige, strukturierte Arbeitsweise und Teamfähigkeit\n- Kommunikationsstärke in Deutsch (mind. B2)\n\n# Wir bieten Dir\n\n- Einblick in die digitale Transformation eines mittelständischen Industrieunternehmens\n- Eigenverantwortliches Arbeiten mit Raum für Ideen\n- Flexible Arbeitszeiten und Möglichkeit zum mobilen Arbeiten\n- Persönliche Betreuung und Entwicklungsmöglichkeiten\n- Zuschüsse für Kantine, E-Bike-Leasing und betriebliche Altersvorsorge\n\n# So geht es weiter\n\nBewirb Dich bitte direkt online indem Du auf den Jetzt-auf-diese Stelle-bewerben-Button klickst.\n\nNutze bei Fragen vorab die Kontaktdaten Deines Ansprechpartners.\n\nWir freuen uns auf deine Bewerbung.\n\nWir melden uns in der Regel innerhalb von 5 Werktagen bei dir. Unser Bewerbungsprozess umfasst ein erstes Kennenlernen in einem persönlichen Kennenlernen vor Ort.\n\n## Klingt das gut?\nDann bewirb Dich jetzt als Praktikant/Werkstudent Digitalisierung von Vertriebsprozessen mit Office 365 (m/w/d) in Radeberg.\nKlicken direkt unten auf den Button.\nWir freuen uns auf Dich!",
    "is_student_job": true,
@@ -159,7 +159,7 @@
     "student": 1.0
    },
    "fit": 89,
-   "first_seen": "2026-10-06T20:59:00+00:00",
+   "first_seen": "2026-11-13T12:12:35+00:00",
    "initial": false
   },
   {
@@ -1806,59 +1806,6 @@
    "initial": true
   },
   {
-   "id": "11956-3086681793228400-S",
-   "title": "GlobalFoundries Management Services GmbH & Co. KG: Werkstudent*in im Bereich Machine Learning & Virt",
-   "company": "GlobalFoundries Management Services GmbH & Co. KG",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01109",
-   "street": "",
-   "lat": 51.1209066,
-   "lon": 13.7591003,
-   "distance_km": 5,
-   "profession": "Mikrotechnologe/-technologin - Halbleitertechnik",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": 20.0,
-   "hours_max": 20.0,
-   "hours_snippet": "verständlich zu visualisieren - Sehr gute Englischkenntnisse in Wort und Schrift **Zeitraum** - Ab sofort für mindestens 6 Monate - Bis zu 20 Stunden pro Woche während des Semesters - Bis zu 40 Stunden pro Woche in den Semesterferien möglich **Bei uns erwartet dich** - Flexible Arbeitszeiten - Nach erfolgreicher Einarbeitung und abhängig vom Aufgabengebiet die Möglichkeit zum mobilen Arbeiten - Mitarbeit in einem offenen und dynamischen Team - Möglichkeit, deine theoretischen Kenntnisse praktisch in den Bereichen Machine Learning und Data Engineering anzuwenden - Attraktive Vergütung - Betriebsinterne Kantine, Fitnessstudio und Physiotherapie - Nutzung verschiedener Weiterbildungsangebote - Weitere attraktive Benefits wie Gesundheitsangebote und verschiedene Mitarbeiterrabatte Bitte füge deiner Bewerbung eine **aktuelle Immatrikulationsbescheinigung** bei. **Vielfalt ist Teil unserer Unternehmens-DNA.** Deshalb möchten wir insbesondere auch Frauen ermutigen, sich bei uns zu bewerben. Chancengleichheit und Inklusion sind für uns wichtige Werte. Daher begrüßen wir ausdrücklich Bewerbungen von Menschen mit Behinderung. Information about our benefits you can find here: hier Schlagworte: ASML, Empfehlungsbund Quelle/Bewerbung via: [https://www.empfehlungsbund.de/jobs/308668/werkstudent-stern-in-im-bereich-machine-learning-und-virtual-metrology](https://www.empfehlungsbund.de/jobs/308668/werkstudent-stern-in-im-bereich-machine-learning-und-virtual-metrology#apply_form) #### Kurzinfo zum Unternehmen **Über GF** GlobalFoundries (GF) ist ein führender Hersteller von Halbleitern, auf die sich die Welt zum Leben, Arbeiten und Vernetzen verlässt. Wir sind innovativ und arbeiten mit unseren Kunden zusammen, um energieeffizientere und leistungsfähigere Produkte für die Automobilindustrie, intelligente mobile Geräte, das Internet der Dinge (IoT), Kommunikationsinfrastrukturen und andere wachstumsstarke Märkte zu entwickeln. Mit unserem globalen Produktionsnetzwerk, das sich über die USA, Europa und Asien erstreckt, sind wir eine vertrauenswürdige und zuverlässige Quelle für Kunden in aller Welt. Jeden Tag liefert unser talentiertes und vielfältiges Team Ergebnisse mit einem unnachgiebigen Fokus auf Sicherheit, Langlebigkeit und Nachhaltigkeit. GF beschäftigt weltweit rund 13.000 Mitarbeitende, davon 3.000 in Dresden. Weitere Informationen finden Sie unter www.gf.com.",
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": true,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-11-03",
-   "published": "2026-10-29",
-   "updated": "2026-11-03T07:03:34.410",
-   "url": "https://www.empfehlungsbund.de/job/308668",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3086681793228400-S",
-   "external": true,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3086681793228400-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTE5NTYtMzA4NjY4MTc5MzIyODQwMC1T",
-    "reference": "11956-3086681793228400-S",
-    "published_by": "Empfehlungsbund.de",
-    "published_by_url": "https://www.Empfehlungsbund.de",
-    "direct": false,
-    "original_url": "https://www.empfehlungsbund.de/job/308668",
-    "original_site": "empfehlungsbund.de",
-    "fetched_at": "2026-11-03T11:56:33+00:00"
-   },
-   "description": " **Über GlobalFoundries**\n\nGlobalFoundries (GF) ist ein führender Hersteller von Halbleitern, auf die sich die Welt zum Leben, Arbeiten und Vernetzen verlässt. Wir sind innovativ und arbeiten mit unseren Kunden zusammen, um energieeffizientere und leistungsfähigere Produkte für die Automobilindustrie, intelligente mobile Geräte, das Internet der Dinge, Kommunikationsinfrastrukturen und andere wachstumsstarke Märkte zu entwickeln. Mit seiner globalen Produktionsbasis, die sich über die USA, Europa und Asien erstreckt, ist GF eine vertrauenswürdige und zuverlässige Quelle für Kunden in aller Welt. Jeden Tag liefert unser talentiertes und vielfältiges Team Ergebnisse mit einem unnachgiebigen Fokus auf Sicherheit, Langlebigkeit und Nachhaltigkeit.&nbsp;GF beschäftigt rund 13.000 Mitarbeitende weltweit, davon rund 3.000 in Dresden. Weitere Informationen finden Sie unter hier\n\n  \n\n**Über den Bereic** h\n\nManufacturing Inline Control (MIC) ist für die Inline-Qualitätskontrolle in unserer Halbleiterfertigung verantwortlich. Mithilfe moderner Mess- und Inspektionssysteme werden Wafer auf Defekte untersucht sowie relevante Anlagen- und Prozessparameter überwacht.\n\nDie gewonnenen Daten bilden eine wichtige Grundlage für Qualitäts- und Zuverlässigkeitskontrollen, Yield-Analysen sowie die kontinuierliche Optimierung unserer Fertigungsprozesse. Als Werkstudent\\*in unterstützt du das Team insbesondere in den Bereichen Data Engineering und Machine Learning.\n\n  \n\n**Stellenprofil**\n\n- Unterstützung des Teams bei Aufgaben im Bereich Data Engineering und Machine Learning\n- Weiterentwicklung und Optimierung bestehender Python- und PySpark-Anwendungen zur Verarbeitung großer Datenmengen\n- Mitarbeit an Daten- und Analyse-Workflows in AWS\n- Unterstützung bei der Implementierung und Bereitstellung von Machine-Learning-Lösungen\n- Weiterentwicklung und Evaluierung von Machine-Learning-Modellen für praktische Anwendungsfälle\n- Aufbereitung und Visualisierung von Daten, Modellen und Ergebnissen\n- Erstellung einer strukturierten Dokumentation der entwickelten Lösungen und Ergebnisse\n  \n\n**Qualifikationen**\n\n- Eingeschriebene_r Student_in der Informatik, Physik, Ingenieurwissenschaften, Data Science oder einer vergleichbaren technischen Fachrichtung\n- Sehr gute Programmierkenntnisse in Python, insbesondere im Bereich Data Engineering und Datenanalyse\n- Idealerweise erste Erfahrungen mit PySpark\n- Kenntnisse in AWS Cloud Services, beispielsweise S3, SageMaker oder EMR, sowie mit Daten- oder Machine-Learning-Pipelines sind von Vorteil\n- Kenntnisse im Umgang mit Datenbanken und SQL sind wünschenswert\n- Kenntnisse der Halbleiterfertigung oder Halbleiterindustrie sind von Vorteil\n- Ausgeprägte analytische und problemlösungsorientierte Fähigkeiten\n- Freude an der Zusammenarbeit im Team\n- Fähigkeit, technische Inhalte und Ergebnisse strukturiert zu dokumentieren und verständlich zu visualisieren\n- Sehr gute Englischkenntnisse in Wort und Schrift\n  \n\n**Zeitraum**\n\n- Ab sofort für mindestens 6 Monate\n- Bis zu 20 Stunden pro Woche während des Semesters\n- Bis zu 40 Stunden pro Woche in den Semesterferien möglich\n  \n\n**Bei uns erwartet dich**\n\n- Flexible Arbeitszeiten\n- Nach erfolgreicher Einarbeitung und abhängig vom Aufgabengebiet die Möglichkeit zum mobilen Arbeiten\n- Mitarbeit in einem offenen und dynamischen Team\n- Möglichkeit, deine theoretischen Kenntnisse praktisch in den Bereichen Machine Learning und Data Engineering anzuwenden\n- Attraktive Vergütung\n- Betriebsinterne Kantine, Fitnessstudio und Physiotherapie\n- Nutzung verschiedener Weiterbildungsangebote\n- Weitere attraktive Benefits wie Gesundheitsangebote und verschiedene Mitarbeiterrabatte\n  \n\nBitte füge deiner Bewerbung eine **aktuelle Immatrikulationsbescheinigung** bei.\n\n**Vielfalt ist Teil unserer Unternehmens-DNA.** Deshalb möchten wir insbesondere auch Frauen ermutigen, sich bei uns zu bewerben. Chancengleichheit und Inklusion sind für uns wichtige Werte. Daher begrüßen wir ausdrücklich Bewerbungen von Menschen mit Behinderung.\n\nInformation about our benefits you can find here: hier\n\n  \n  \nSchlagworte: ASML, Empfehlungsbund  \nQuelle/Bewerbung via: [https://www.empfehlungsbund.de/jobs/308668/werkstudent-stern-in-im-bereich-machine-learning-und-virtual-metrology](https://www.empfehlungsbund.de/jobs/308668/werkstudent-stern-in-im-bereich-machine-learning-und-virtual-metrology#apply_form)  \n\n#### Kurzinfo zum Unternehmen\n\n**Über GF**\n\nGlobalFoundries (GF) ist ein führender Hersteller von Halbleitern, auf die sich die Welt zum Leben, Arbeiten und Vernetzen verlässt. Wir sind innovativ und arbeiten mit unseren Kunden zusammen, um energieeffizientere und leistungsfähigere Produkte für die Automobilindustrie, intelligente mobile Geräte, das Internet der Dinge (IoT), Kommunikationsinfrastrukturen und andere wachstumsstarke Märkte zu entwickeln.\n\nMit unserem globalen Produktionsnetzwerk, das sich über die USA, Europa und Asien erstreckt, sind wir eine vertrauenswürdige und zuverlässige Quelle für Kunden in aller Welt. Jeden Tag liefert unser talentiertes und vielfältiges Team Ergebnisse mit einem unnachgiebigen Fokus auf Sicherheit, Langlebigkeit und Nachhaltigkeit. GF beschäftigt weltweit rund 13.000 Mitarbeitende, davon 3.000 in Dresden. Weitere Informationen finden Sie unter www.gf.com.\n\n",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.0,
-    "hours": 1.0,
-    "student": 1.0
-   },
-   "fit": 40,
-   "first_seen": "2026-10-29T10:54:12+00:00",
-   "initial": false
-  },
-  {
    "id": "11956-3031311786831201-S",
    "title": "GlobalFoundries Management Services GmbH & Co. KG: Werkstudent*in im Bereich Tape-Out Engineering",
    "company": "GlobalFoundries Management Services GmbH & Co. KG",
@@ -2068,59 +2015,6 @@
    },
    "fit": 33,
    "first_seen": "2026-11-03T11:56:33+00:00",
-   "initial": false
-  },
-  {
-   "id": "11956-3082771794351601-S",
-   "title": "GlobalFoundries Management Services GmbH & Co. KG: Working Student for Back End of Line - Integratio",
-   "company": "GlobalFoundries Management Services GmbH & Co. KG",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01109",
-   "street": "",
-   "lat": 51.1209066,
-   "lon": 13.7591003,
-   "distance_km": 5,
-   "profession": "Mikrotechnologe/-technologin - Halbleitertechnik",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": true,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-11-11",
-   "published": "2026-11-11",
-   "updated": "2026-11-11T07:03:49.323",
-   "url": "https://www.empfehlungsbund.de/job/308277",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3082771794351601-S",
-   "external": true,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3082771794351601-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTE5NTYtMzA4Mjc3MTc5NDM1MTYwMS1T",
-    "reference": "11956-3082771794351601-S",
-    "published_by": "Empfehlungsbund.de",
-    "published_by_url": "https://www.Empfehlungsbund.de",
-    "direct": false,
-    "original_url": "https://www.empfehlungsbund.de/job/308277",
-    "original_site": "empfehlungsbund.de",
-    "fetched_at": "2026-11-11T11:53:10+00:00"
-   },
-   "description": " **About GF** &nbsp;\n\nGlobalFoundries® Inc. (GF®) is one of the world's leading semiconductor manufacturers. GF redefines innovation and semiconductor manufacturing by developing and delivering feature-rich process technology solutions with leading performance in all growth markets. GF offers a unique mix of design, development and manufacturing services. With a talented and diverse team and manufacturing locations in the U.S., Europe and Asia, GF is a trusted technology provider to its global customers. GF employs approximately 15,000 people, including more than 3,000 in Dresden, Germany.\n\n  \n\nFor more information, visit hier .\n\n  \n\n**Introduction**  \nAre you currently pursuing a Master’s degree in Chemistry or Materials Science and interested in gaining hands-on experience in semiconductor manufacturing? We are looking for a motivated Master Student to support our BEoL Integration team in investigating process-induced defectivity issues and evaluating potential solutions.\n\n  \n\n**Your Job**\n\n- Support root cause investigations for process-induced defectivity issues within BEoL Integration\n- Assist in the planning and coordination of experiments\n- Coordinate wafer logistics required for experimental activities\n- Organize chemical and physical analyses in collaboration with relevant teams and laboratories\n- Evaluate, summarize and document experimental and analytical results\n- Prepare and present findings to the BEoL Integration team\n- Support the verification of targeted solutions based on experimental results\n  \n\n**Required Qualifications**\n\n- You're currently pursuing a Master's degree in Chemistry, Materials Science or a related technical or scientific field\n- Interest in semiconductor technology, materials characterization and process integration\n- Structured and analytical approach to technical problem-solving\n- Good organizational and communication skills\n- Ability to summarize technical results clearly and present them to a technical audience\n- Good German and English skills (both at least C1)\n  \n\n**What you can expect from us**\n\n- The opportunity to become part of an open and dynamic team\n- Competitive compensation\n- On-site cafeteria, gym, and physical therapy\n- Access to professional development opportunities\n- Other attractive benefits, such as health and wellness programs and various employee discounts&nbsp;\n\nInformation about our benefits you can find here: hier\n\n  \n  \nSchlagworte: CHIP,Englisch, Empfehlungsbund  \nQuelle/Bewerbung via: [https://www.empfehlungsbund.de/jobs/308277/working-student-for-back-end-of-line-integration](https://www.empfehlungsbund.de/jobs/308277/working-student-for-back-end-of-line-integration#apply_form)  \n\n#### Kurzinfo zum Unternehmen\n\n**Über GF**\n\nGlobalFoundries (GF) ist ein führender Hersteller von Halbleitern, auf die sich die Welt zum Leben, Arbeiten und Vernetzen verlässt. Wir sind innovativ und arbeiten mit unseren Kunden zusammen, um energieeffizientere und leistungsfähigere Produkte für die Automobilindustrie, intelligente mobile Geräte, das Internet der Dinge (IoT), Kommunikationsinfrastrukturen und andere wachstumsstarke Märkte zu entwickeln.\n\nMit unserem globalen Produktionsnetzwerk, das sich über die USA, Europa und Asien erstreckt, sind wir eine vertrauenswürdige und zuverlässige Quelle für Kunden in aller Welt. Jeden Tag liefert unser talentiertes und vielfältiges Team Ergebnisse mit einem unnachgiebigen Fokus auf Sicherheit, Langlebigkeit und Nachhaltigkeit. GF beschäftigt weltweit rund 13.000 Mitarbeitende, davon 3.000 in Dresden. Weitere Informationen finden Sie unter www.gf.com.\n\n",
-   "is_student_job": true,
-   "category": "Consulting & Strategy",
-   "emoji": "🧭",
-   "scores": {
-    "econ": 0.08,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 33,
-   "first_seen": "2026-11-11T11:53:10+00:00",
    "initial": false
   },
   {
@@ -5781,5 +5675,5 @@
    "initial": true
   }
  ],
- "took_s": 6.0
+ "took_s": 5.9
 }
