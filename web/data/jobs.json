@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-13T12:12:35+00:00",
+ "updated_at": "2026-11-13T21:58:57+00:00",
  "radius": 40,
- "count": 107,
+ "count": 109,
  "jobs": [
   {
    "id": "12811-2315852-S",
@@ -55,6 +55,59 @@
    "fit": 100,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
+  },
+  {
+   "id": "20478-2377909-S",
+   "title": "Praktikant/Werkstudent Personalmanagement (m/w/d)",
+   "company": "Deutsche Telekom MMS GmbH",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01129",
+   "street": "Riesaer Str. 5",
+   "lat": 51.082668,
+   "lon": 13.7257875,
+   "distance_km": 3,
+   "profession": "Betriebswirt/in (Hochschule) - Personalmanagement",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": 14.0,
+   "hours_max": 38.0,
+   "hours_snippet": "Standort: Dresden Einstellungsart: Werkstudententätigkeit, Praktikum Wochenarbeitszeit: 14 bis 38 h/Woche (je nach Einstellungsart) Sprachkenntnisse: Deutsch und Englisch ### Das erwartet dich als Praktikant/Werkstudent (m/w/d) - Du unterstützt im Personalmanagement bei der Erstellung von Anstellungs\\- und Änderungsverträgen - Du begleitest das On\\- und Offboarding der festen Mitarbeitenden und Studierenden - Im operativen Tagesgeschäft zählen die Erstellung von Arbeitszeugnissen und die Pflege digitaler Akten zu deinen Aufgaben - Zudem bereitest du HR-spezifische Themen zielgruppengerecht auf - Du engagierst dich eigenständig an Projektthemen ### Das bringst du im Bereich Personalmanagement mit - Studium der Wirtschaftswissenschaften, Soziologie, BWL, Sozialwissenschaften, Psychologie oder einer artverwandten Fachrichtung - Gute MS Office-Kenntnisse (Excel, PowerPoint und Outlook) - Kommunikationstalent mit strukturierter und gründlicher Arbeitsweise - Sehr gute Deutsch\\- und Englischkenntnisse in Wort und Schrift Ein Plus, kein Muss - Erste Erfahrungen in der Personalarbeit ### Unsere Benefits für dich - Arbeitszeitmodell \\- flexible Arbeitszeit - Teamgeist \\- mit positiven Vibes gemeinsam zum Erfolg - Lernenden Community \\- Austausch, Vernetzung & Feiern mit Gleichgesinnten - Corporate Benefits \\- Mitarbeitervorteile bei diversen Onlineshops, Fitnessstudios, Eventtickets... - ,,Come as you are\" \\- bei uns gibt es keinen Dresscode - Mehr als Kaffeekochen \\- Entscheidungsspielräume und Verantwortung - Entspannte Atmosphäre \\- Start-Up Feeling im Telekom-Konzern - Abschlussarbeit \\- mit uns als innovativen Praxispartner - Netzwerken \\- Knüpfe wertvolle Kontakte für deinen Berufseinstieg Für ein Praktikum ist eine monatliche Vergütung vorgesehen, die sich nach Art und Dauer des Praktikums sowie dem Studienniveau/-art richtet und aktuell zwischen 600 EUR und 2.289 EUR/Monat (brutto) liegt. Für Werkstudierende ist eine Vergütung von 14 EUR bis 18 EUR/Stunde (brutto) vorgesehen. Die konkrete Einordnung erfolgt auf Basis objektiver und geschlechtsneutraler Kriterien, insbesondere Studienart/-niveau, fachlicher Qualifikation und individueller Leistung. Bei uns zählt der Mensch. Wir setzen uns aktiv für Entgeltgleichheit ein und gestalten unsere Vergütungsstrukturen transparent und diskriminierungsfrei. Unabhängig von Geschlecht, ethnischer Herkunft, Religion, Alter, sexueller Identität oder Behinderung leben wir Vielfalt und lehnen jede Form von Diskriminierung ab. ### Bist du dabei? Dann bewirb dich und zeig uns, wer du bist! Du hast noch Fragen oder suchst nach fachspezifischen Informationen? Zögere nicht und kontaktiere mich. Janin Brückner Telefon/ WhatsApp: +49 351 \\- 2820 \\- 7555",
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-11-13",
+   "published": "2026-11-13",
+   "updated": "2026-11-13T17:35:20.416",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2377909-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2377909-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20478-2377909-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MjA0NzgtMjM3NzkwOS1T",
+    "reference": "20478-2377909-S",
+    "published_by": "Deutsche Telekom MMS GmbH",
+    "published_by_url": "https://www.telekom-mms.com",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-13T21:58:57+00:00"
+   },
+   "description": "### Unterstütze unser HR-Team in der Erstellung von Arbeitsverträgen und beim On-/ Offboarding von Mitarbeitenden\n  \n\nJährlich mehr als 3.000 Kundenprojekte, 2.100 großartige Kolleg*innen, 10 attraktive Standorte \\- und mittendrin: Du. Mit der Telekom MMS gemeinsam für eine digitalisierte, zukunftsfähige und lebenswerte Welt. Dein Job. Für morgen. Und übermorgen.\n\nStandort: Dresden\nEinstellungsart: Werkstudententätigkeit, Praktikum\nWochenarbeitszeit: 14 bis 38 h/Woche (je nach Einstellungsart)\nSprachkenntnisse: Deutsch und Englisch \n\n \n### Das erwartet dich als Praktikant/Werkstudent (m/w/d)\n\n \n\n\n- Du unterstützt im Personalmanagement bei der Erstellung von Anstellungs\\- und Änderungsverträgen\n- Du begleitest das On\\- und Offboarding der festen Mitarbeitenden und Studierenden\n- Im operativen Tagesgeschäft zählen die Erstellung von Arbeitszeugnissen und die Pflege digitaler Akten zu deinen Aufgaben\n- Zudem bereitest du HR-spezifische Themen zielgruppengerecht auf\n- Du engagierst dich eigenständig an Projektthemen\n\n\n\n### Das bringst du im Bereich Personalmanagement mit\n\n \n\n\n- Studium der Wirtschaftswissenschaften, Soziologie, BWL, Sozialwissenschaften, Psychologie oder einer artverwandten Fachrichtung\n- Gute MS Office-Kenntnisse (Excel, PowerPoint und Outlook)\n- Kommunikationstalent mit strukturierter und gründlicher Arbeitsweise\n- Sehr gute Deutsch\\- und Englischkenntnisse in Wort und Schrift\n\n  \n\nEin Plus, kein Muss \n\n\n- Erste Erfahrungen in der Personalarbeit \n\n\n\n\n\n### Unsere Benefits für dich\n\n \n\n\n- Arbeitszeitmodell \\- flexible Arbeitszeit\n- Teamgeist \\- mit positiven Vibes gemeinsam zum Erfolg\n- Lernenden Community \\- Austausch, Vernetzung & Feiern mit Gleichgesinnten\n- Corporate Benefits \\- Mitarbeitervorteile bei diversen Onlineshops, Fitnessstudios, Eventtickets...\n- ,,Come as you are\" \\- bei uns gibt es keinen Dresscode\n- Mehr als Kaffeekochen \\- Entscheidungsspielräume und Verantwortung\n- Entspannte Atmosphäre \\- Start-Up Feeling im Telekom-Konzern\n- Abschlussarbeit \\- mit uns als innovativen Praxispartner\n- Netzwerken \\- Knüpfe wertvolle Kontakte für deinen Berufseinstieg\n\n  \n\nFür ein Praktikum ist eine monatliche Vergütung vorgesehen, die sich nach Art und Dauer des Praktikums sowie dem Studienniveau/-art richtet und aktuell zwischen 600 EUR und 2.289 EUR/Monat (brutto) liegt. Für Werkstudierende ist eine Vergütung von 14 EUR bis 18 EUR/Stunde (brutto) vorgesehen. Die konkrete Einordnung erfolgt auf Basis objektiver und geschlechtsneutraler Kriterien, insbesondere Studienart/-niveau, fachlicher Qualifikation und individueller Leistung. \n\nBei uns zählt der Mensch. Wir setzen uns aktiv für Entgeltgleichheit ein und gestalten unsere Vergütungsstrukturen transparent und diskriminierungsfrei. Unabhängig von Geschlecht, ethnischer Herkunft, Religion, Alter, sexueller Identität oder Behinderung leben wir Vielfalt und lehnen jede Form von Diskriminierung ab. \n\n \n### Bist du dabei?\n  \n\nDann bewirb dich und zeig uns, wer du bist! \n\nDu hast noch Fragen oder suchst nach fachspezifischen Informationen? Zögere nicht und kontaktiere mich. \n\nJanin Brückner\nTelefon/ WhatsApp: +49 351 \\- 2820 \\- 7555",
+   "is_student_job": true,
+   "category": "HR & People",
+   "emoji": "👥",
+   "scores": {
+    "econ": 0.89,
+    "hours": 1.0,
+    "student": 1.0
+   },
+   "fit": 93,
+   "first_seen": "2026-11-13T21:58:57+00:00",
+   "initial": false
   },
   {
    "id": "10001-1003829445-S",
@@ -4191,6 +4244,59 @@
    "initial": false
   },
   {
+   "id": "12322-TLTFVAZ8D29FQQHA-S",
+   "title": "Studentenjob (m/w/d) bis zu 16,91 EUR/Std",
+   "company": "Walter-Fach-Kraft Dresden GmbH",
+   "city": "Wilsdruff",
+   "district": "",
+   "plz": "01723",
+   "street": "",
+   "lat": 51.052409124,
+   "lon": 13.525289382,
+   "distance_km": 17,
+   "profession": "Helfer/in - Metallbau",
+   "type": "ARBEIT",
+   "hours_min": 7.0,
+   "hours_max": 7.0,
+   "hours_snippet": "Studentenjob (m/w/d) bis zu 16,91 EUR/Std Standort: Wilsdruff Anstellungsart(en): Minijob, Schicht, Teilzeit - flexibel Arbeitszeit: 7 Stunden pro Woche Mit uns kannst du etwas bewegen! Wir suchen für unsere Kunden ab sofort mehrere Studenten (m/w/d) oder Aushilfskräfte (m/w/d) in der Automobilindustrie und Logistik für einfache Tätigkeiten. Wenn du Lust auf Herausforderungen hast und in einem Umfeld arbeiten möchtest, das deine Ideen schätzt, freuen wir uns auf deine Bewerbung. Deine Aufgaben als Aushilfskraft (m/w/d): - Einlegen von Teilen in Produktionsanlagen - Verpacken und Leerguthandling Unsere Anforderungen an dich: - Spaß an der Arbeit an modernen Produktionsanlagen und in der Logistik - Schichtbereitschaft (6-14 14-22 und 22-6 Uhr Montag bis Freitag und auch am Wochenende) Wir bieten dir: - eine pünktliche Lohnzahlung nach GVP Tarif - Lohn ab 15,56 € / h, Steigerung durch Branchenzuschläge bis 16,91 € / h + Schichtzuschläge - Einsatz als Mini Jobber (m/w/d) oder kurzfristige Beschäftigung mit 70 Tagen - Shuttle – Service zum Einsatzort - freundliche und professionelle Ansprechpartner Vorort Wir freuen uns auf dich Bewerben Sie sich hier, per E-Mail an dresden@walterfachkraft.com oder telefonisch unter +49 351 250214-0. Wir stehen dir natürlich gerne für Fragen zur Verfügung und freuen uns darauf, dich kennenzulernen! Eine Bewerbung, viele Chancen: Wir berücksichtigen dich automatisch auch für andere passende Stellen. Abteilung(en): Gewerblich, Helfer, Produktion Tarifvertrag: GVP",
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": true,
+   "homeoffice": false,
+   "salary": "15.56–16.91 €",
+   "start": "2026-11-13",
+   "published": "2026-11-13",
+   "updated": "2026-11-13T15:32:06.717",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12322-TLTFVAZ8D29FQQHA-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12322-TLTFVAZ8D29FQQHA-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12322-TLTFVAZ8D29FQQHA-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTIzMjItVExURlZBWjhEMjlGUVFIQS1T",
+    "reference": "12322-TLTFVAZ8D29FQQHA-S",
+    "published_by": "walterfachkraft.de",
+    "published_by_url": "https://www.walterfachkraft.de",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-13T21:58:57+00:00"
+   },
+   "description": "Die Walter-Fach-Kraft Gruppe:\nDie inhabergeführte Walter-Fach-Kraft Gruppe ist ein seit über 28 Jahren etabliertes und renommiertes mittelständisches Personaldienstleistungsunternehmen. Mit einem engagierten Team von über 1.000 Mitarbeitenden sind wir an nahezu 30 Standorten in Deutschland und Österreich vertreten. Unser Ziel ist es, Unternehmen und Bewerber erfolgreich zusammenzubringen, um langfristige Partnerschaften aufzubauen und gemeinsam nachhaltigen Erfolg zu sichern. Dabei legen wir großen Wert auf Qualität, Vertrauen und eine offene Kommunikation, um die individuellen Bedürfnisse unserer Kunden und Kandidaten (m/w/d) bestmöglich zu erfüllen.\n\nStudentenjob (m/w/d) bis zu 16,91 EUR/Std\n\nStandort: Wilsdruff\nAnstellungsart(en): Minijob, Schicht, Teilzeit - flexibel\nArbeitszeit: 7 Stunden pro Woche\n\nMit uns kannst du etwas bewegen!\nWir suchen für unsere Kunden ab sofort mehrere Studenten (m/w/d) oder Aushilfskräfte (m/w/d) in der Automobilindustrie und Logistik für einfache Tätigkeiten.\n\nWenn du Lust auf Herausforderungen hast und in einem Umfeld arbeiten möchtest, das deine Ideen schätzt, freuen wir uns auf deine Bewerbung.\n\nDeine Aufgaben als Aushilfskraft (m/w/d):\n- Einlegen von Teilen in Produktionsanlagen\n- Verpacken und Leerguthandling\n\nUnsere Anforderungen an dich:\n- Spaß an der Arbeit an modernen Produktionsanlagen und in der Logistik\n- Schichtbereitschaft (6-14 14-22 und 22-6 Uhr Montag bis Freitag und auch am Wochenende)\n\nWir bieten dir: \n- eine pünktliche Lohnzahlung nach GVP Tarif\n- Lohn ab 15,56 € / h, Steigerung durch Branchenzuschläge bis 16,91 € / h + Schichtzuschläge\n- Einsatz als Mini Jobber (m/w/d) oder kurzfristige Beschäftigung mit 70 Tagen\n- Shuttle – Service zum Einsatzort\n- freundliche und professionelle Ansprechpartner Vorort\n\nWir freuen uns auf dich\nBewerben Sie sich hier, per E-Mail an dresden@walterfachkraft.com oder telefonisch unter +49 351 250214-0.\n\nWir stehen dir natürlich gerne für Fragen zur Verfügung und freuen uns darauf, dich kennenzulernen!\n\n\nEine Bewerbung, viele Chancen: Wir berücksichtigen dich automatisch auch für andere passende Stellen.\n\nAbteilung(en): Gewerblich, Helfer, Produktion\nTarifvertrag: GVP\n",
+   "is_student_job": true,
+   "category": "HR & People",
+   "emoji": "👥",
+   "scores": {
+    "econ": 0.08,
+    "hours": 0.25,
+    "student": 1.0
+   },
+   "fit": 26,
+   "first_seen": "2026-11-13T21:58:57+00:00",
+   "initial": false
+  },
+  {
    "id": "19220-8d3a89bd2c34bc28-S",
    "title": "Studentenjob im Verkauf 9 Std./Woche Teilzeit (m/w/d)",
    "company": "Lidl Dienstleistung GmbH & Co. KG",
@@ -5675,5 +5781,5 @@
    "initial": true
   }
  ],
- "took_s": 5.9
+ "took_s": 3.7
 }
