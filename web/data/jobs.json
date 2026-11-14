@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T11:28:20+00:00",
+ "updated_at": "2026-11-14T20:42:58+00:00",
  "radius": 40,
  "count": 109,
  "jobs": [
@@ -3419,7 +3419,7 @@
    "salary": null,
    "start": "2026-07-07",
    "published": "2026-05-29",
-   "updated": "2026-07-07T08:12:33.591",
+   "updated": "2026-11-14T13:31:17.490",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206665639-S",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206665639-S",
    "external": false,
@@ -3433,7 +3433,7 @@
     "direct": true,
     "original_url": null,
     "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-10-05T13:42:51+00:00"
+    "fetched_at": "2026-11-14T20:42:58+00:00"
    },
    "description": "## Praktikant / Werkstudent (m/w/d) in der Bauleitung\n\n# **Verantwortlichkeiten**\n\n- Du arbeitest aktiv in der Bau- und Projektleitung mit – von der Vorbereitung bis zur Durchführung.\n- Du unterstützt beim **Termin- und Qualitätsmanagement** unserer Bauprojekte.\n- Du koordinierst die Zusammenarbeit mit **Nachunternehmern** und begleitest Absprachen vor Ort.\n- Du bereitest **Baubesprechungen und Kundentermine** vor und nimmst daran teil.\n- Du erstellst Unterlagen, Präsentationen und Auswertungen für das Projektteam.\n\n# \n\n# **Profil**\n\n- Du studierst Bauingenieurwesen, Architektur oder ein vergleichbares Fach – **idealerweise ab dem 3. Semester**.\n- Du kannst sicher mit MS Office arbeiten; Erfahrungen mit **MS Project** oder **CAD-Programmen** sind ein Plus.\n- Du arbeitest strukturiert, packst gerne mit an und hast Freude daran, Verantwortung zu übernehmen.\n- Teamgeist und eine offene, kommunikative Art zeichnen dich aus.\n- Wenn du möchtest, kannst du im Anschluss an dein Praktikum bei uns deine **Bachelor- oder Masterarbeit** schreiben – inklusive individueller Betreuung.\n\n\n**Klingt interessant? Dann bewerben Sie sich jetzt online und richten Sie Ihre Bewerbung bitte an:**\n\nTorsten Blank\n \nGOLDBECK Ost GmbH\n \nTreuen, Herlasgruener Strasse 78\n\n# **Wir gestalten die Lebensräume der Zukunft. Mit:**\n\nMenschlichkeit, Vertrauen, Verantwortung, Leistung und Pioniergeist\n\nWir bieten **mehr als 35 attraktive Benefits&#32;**aus den Kategorien:\n\n- **Vergütung & Prämien:** Inflationsausgleich & Gewinnbonus, Unternehmensanteile, Jobticket / Fahrtkostenzuschuss, Mitarbeitendenvergünstigungen, Altersversorgung, Vermögenswirksame Leistungen, Mitarbeitende werben Mitarbeitende\n- **Urlaub & Flexibilität:&#160;**32 Urlaubstage, Mobiles Arbeiten, Arbeitszeitanpassung, Sabbatical, Altersteilzeit\n- **Familie & Beruf:&#160;**Kinderbetreuung, Betreuungskostenzuschuss, Familienunterstützung\n- **Gesundheit & Nachhaltigkeit:** JobRad-Leasing, Betriebliches Gesundheitsmanagement, Sportangebot, Vorsorge und Zusatzangebote\n- **Team & Kultur:** Veranstaltungen & Events, Female Empowerment, Frauennetzwerk\n- **Onboarding & Karriere:&#160;**Einarbeitungsprogramm, Weiterbildung mit über 900 Trainings und Seminaren der GOLDBECK-Academy, Förderung von Karrierewegen, Auslandsentsendungen\n\nBitte beachten, dass die Benefits von Standort oder Position abhängig sind.",
    "is_student_job": true,
@@ -5781,5 +5781,5 @@
    "initial": true
   }
  ],
- "took_s": 5.7
+ "took_s": 5.8
 }
