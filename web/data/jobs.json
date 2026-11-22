@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-21T21:39:07+00:00",
+ "updated_at": "2026-11-22T12:35:30+00:00",
  "radius": 40,
- "count": 104,
+ "count": 106,
  "jobs": [
   {
    "id": "20478-2377909-S",
@@ -1965,6 +1965,59 @@
    "initial": false
   },
   {
+   "id": "19220-3119a1690842d412-S",
+   "title": "Studentenjob im Verkauf 9-14 Std./Woche Teilzeit (m/w/d)",
+   "company": "Lidl Dienstleistung GmbH & Co. KG",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01097",
+   "street": "Hansastraße 50",
+   "lat": 51.071900763,
+   "lon": 13.73948476,
+   "distance_km": 2,
+   "profession": "Helfer/in - Verkauf",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": 9.0,
+   "hours_max": 14.0,
+   "hours_snippet": "Studentenjob im Verkauf 9-14 Std./Woche Teilzeit (m/w/d).",
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": "15.62–19.44 €",
+   "start": "2026-11-22",
+   "published": "2026-11-22",
+   "updated": "2026-11-22T08:03:46.926",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-3119a1690842d412-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-3119a1690842d412-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-3119a1690842d412-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTkyMjAtMzExOWExNjkwODQyZDQxMi1T",
+    "reference": "19220-3119a1690842d412-S",
+    "published_by": "Schwarz IT KG",
+    "published_by_url": "https://it.schwarz/",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-22T12:35:30+00:00"
+   },
+   "description": "### Einleitung\n\nWir finden, unsere Kunden verdienen nur das Beste. Dich zum Beispiel. Du erfüllst Kundenwünsche am laufenden Band und behältst als echtes Verkaufstalent immer den Überblick. Wir sind froh, dass du da bist, und zeigen dir das nicht nur über ein faires Gehalt, sondern auch durch ein faires Miteinander im Alltag.\n\n### Deine Aufgaben\n\n- Gemeinsam mit deinen Teamkollegen sorgst du für eine gepflegte Filiale und ein rundum gelungenes Einkaufserlebnis für unsere Kunden\n- Ob bei der Verräumung und ansprechender Präsentation der Ware, beim Backen oder beim Kassieren mit unseren modernen Kassensystemen: Du packst an und bist mit vollem Einsatz dabei\n- In der Scan&amp;Go-Zone stellst du die Funktionsfähigkeit sicher, begeisterst Kunden für das System und bietest Hilfestellung, um ein positives Einkaufserlebnis zu ermöglichen\n- Du prüfst den Wareneingang, unterstützt bei Inventurarbeiten und stehst unseren Kunden mit Rat und Tat zur Verfügung\n- Außerdem übernimmst du Lager- und Reinigungsarbeiten\n\n### Dein Profil\n\n- Eingeschriebener Student (Universität oder Hochschule)\n- Lust auf die dynamische Welt des Handels\n- Schnelle und effiziente Arbeitsweise sowie Anpassungsfähigkeit an wechselnde Aufgaben\n- Teamgeist, Freundlichkeit und Spaß am Umgang mit Menschen\n- Zuverlässigkeit und Bereitschaft zur Unterstützung in flexiblen Schichtmodellen in Absprache mit der Führungskraft\n\n### Wir bieten\n\n- Übertariflicher [Mindesteinstiegslohn](https://jobs.lidl.de/lidl-als-arbeitgeber/mindesteinstiegslohn) sowie Urlaubs- und Weihnachtsgeld\n- Exklusiver 5 % Einkaufsrabatt in unseren Filialen\n- Bezahlte Überstunden bei minutengenauer Zeiterfassung\n- Flexible Arbeitszeiten passend zu deinen Vorlesungsplänen\n- Weitere Leistungen gemäß Tarifvertrag (Zuschläge, Sonderurlaub, u.v.m.)\n- Intensive Einarbeitung mit Begleitung durch einen persönlichen Paten\n- Vielfältige betriebliche Gesundheitsangebote und exklusive Sonderkonditionen bei ausgewählten Fitnessanbietern deutschlandweit\n- Vergünstigtes Deutschlandticket\n\n  \nWir legen Wert darauf, dass sich dein Einstieg bei uns lohnt! Mit attraktiven Benefits und einer Unternehmenskultur, die auf Zutrauen, Vielfalt und ein transparentes Gehaltssystem unabhängig vom Geschlecht setzt.\n\nHört sich gut an? Dann lass bald von dir hören!",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.05,
+    "hours": 0.5,
+    "student": 1.0
+   },
+   "fit": 30,
+   "first_seen": "2026-11-22T12:35:30+00:00",
+   "initial": false
+  },
+  {
    "id": "19220-be404fd3c32bc2a2-S",
    "title": "Studentenjob im Verkauf 9-14 Std./Woche Teilzeit (m/w/d)",
    "company": "Lidl Dienstleistung GmbH & Co. KG",
@@ -2800,6 +2853,59 @@
     "fetched_at": "2026-10-05T13:42:50+00:00"
    },
    "description": "Bist Du auf der Suche nach einer Werkstudentenstelle? Wir bieten Studenten (m/w/d) mit fundierten Programmierkenntnissen das perfekte Umfeld, um praktische Erfahrungen in der professionellen Softwareentwicklung zu sammeln.\n\n## Wann bist Du bei uns richtig?\n\n- Du bringst großes Interesse für die Entwicklung von Softwarelösungen in spannenden Industrien (u.a. Automotive, Manufacturing, Finance, Energy) mit.\n- Du bist motiviert, in abwechslungsreichen Projekte von der Erstellung skalierbarer Backends über webbasierte Geschäftsanwendungen bis hin zu mobilen Apps mitzuwirken.\n- Du arbeitest leidenschaftlich mit professionellen Entwicklungswerkzeugen (u.a. Jenkins, Git, Maven, Jira und JUnit).\n- Du setzt Deinen Fokus auf Qualität und Effizienz in der Entwicklung.\n\n## Was erwartet Dich bei uns?\n\n- Lerne alles über gutes Softwaredesign\n- Flexible Arbeitszeiten, die zu Deinem Studium passen\n- Teilnahme an Developer Camps und Entwicklerkonferenzen\n- Viel Platz für eigenverantwortliches Handeln und neue Herausforderungen\n- Unterstützung bei Pflicht-Praktika und Abschlussarbeiten\n- Lockere Arbeitsatmosphäre in einem schicken Büro in der Nähe des Uni Campus\n\n## Was wünschen wir uns von Dir?\n\n- Interesse und Lernbereitschaft für neue Technologien\n- Hohe Qualitätsansprüche an Deine eigene Arbeit\n- Fundierte Programmiererfahrungen mit Java, JS oder C#\n- Eigenständige und lösungsorientierte Arbeitsweise",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-10-05T13:16:11+00:00",
+   "initial": true
+  },
+  {
+   "id": "13645-279288-S",
+   "title": "Werkstudent (m/w/d) für die Planung von Ver- und Entsorgungsanlagen",
+   "company": "IPROconsult",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01069",
+   "street": "",
+   "lat": 51.0396631,
+   "lon": 13.7363086,
+   "distance_km": 4,
+   "profession": "Ingenieur/in - Bau",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-11-22",
+   "published": "2026-11-22",
+   "updated": "2026-11-22T07:02:07.996",
+   "url": "https://www.get-in-engineering.de/jobsuche/p279288?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-premium",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-279288-S",
+   "external": true,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-279288-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTM2NDUtMjc5Mjg4LVM=",
+    "reference": "13645-279288-S",
+    "published_by": "get in GmbH",
+    "published_by_url": "https://www.get-in-Engineering.de",
+    "direct": false,
+    "original_url": "https://www.get-in-engineering.de/jobsuche/p279288?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-premium",
+    "original_site": "get-in-engineering.de",
+    "fetched_at": "2026-11-22T12:35:30+00:00"
+   },
+   "description": "## Werkstudent (m/w/d) für die Planung von Ver- und Entsorgungsanlagen\n\nDresden\n\nab sofort\n\nTeilzeit\n\nZur Verstärkung unseres Teams in Dresden suchen wir engagierte Werkstudenten (m/w/d) für die Planung von Ver- und Entsorgungsanlagen in Außenanlagen (vorrangig Regenwasser-, Schmutzwasser- und Trinkwasseranlagen sowie Tiefbauleistungen verschiedener anderer Gewerke).\n\n## Ihr Beitrag\n\n- Unterstützung der Ver- und Entsorgungsanlagenplanung für Städte und Kommunen, Industrie-, Gewerbe- und Wohngebiete mit dem inhaltlichen Schwerpunkt auf wasserwirtschaftlichen Anlagen \n    - Abwasserkanäle und dazugehörige technische Anlagen\n    - Speicherung, Rückhalt, Nutzung und Entsorgung von Regenwasser inkl. notwendiger Anlagen wie Regenrückhaltebecken, Zisternen sowie Versickerungs- und Verdunstungsanlagen\n    - Berechnung von Trinkwassernetzen und deren technischer Ausführung\n    - Koordinierung von Tiefbauleistungen der Trassen für Fernwärme, Elektro, Gas und Telekommunikation\n    - Innovative Lösungen für besondere Anforderungen einzelner Kunden\n- Mitarbeit bei der Erarbeitung der Leistungsphasen 1–5 gemäß HOAI in der Objektplanung Ingenieurbauwerke\n- Ein Tutor begleitet Sie fachlich bei der Tätigkeit und hilft ebenfalls bei organisatorischen Fragen in unserem (großen) Unternehmen\n\n## Ihr Profil\n\n- Sie studieren Wasserwirtschaft oder Bauingenieurwesen/Umweltingenieurwesen mit Vertiefungsrichtung Wasserwirtschaft\n- Erste Erfahrung im Umgang mit Zeichenprogrammen und hydraulischer Modellierung (beispielsweise AutoCAD, Hystem Extran, ModFlow, STANET)\n- Sicherer Umgang mit MS Office Programmen\n- Bereitschaft zur Einarbeitung in Fachsoftware\n\n## Unser Angebot\n\n- Kooperation: 400 Spezialisten an 12 nationalen und zwei internationalen Standorten\n- Erfahrung: über 70 Jahre innovative Planungskompetenz in Architektur und Ingenieurwesen\n- Berufsperspektiven: Weiterbildungen, Feedbackgespräche, Workshops, Aufstiegschancen zum Projektleiter und Führungsperson\n- Umweltbewusstsein: 30 % Zuschuss zum Deutschlandticket, JobRad (Fahrradleasing), Jobroller-Leasing, nachhaltiges Einkaufsmanagement\n- Gesundheit: 30 Tage Erholungsurlaub zzgl. vier Kulanztage, Vorsorgeuntersuchungen, diverse Mitarbeitervorteile, Zuschuss zum WELLPASS (Sportangebot)\n- Gemeinschaft: mehrmals jährlich stattfindende Firmenevents (6x fest geplant), individuelle Team-Ausflüge\n- Moderne Arbeitsbedingungen: Gleitzeit ohne Kernarbeitszeiten, mobiles Arbeiten, Zuschuss zu Kitagebühren, Rücksichtnahme auf Familien, 2-3 Personen-Büros mit ergonomischen Arbeitsplätzen\n\nUnser Hauptsitz in Dresden ist sehr gut an das öffentliche Verkehrsnetz angeschlossen und in wenigen Minuten von den Haltestellen Hauptbahnhof und Lennéplatz fußläufig erreichbar. Es gibt zahlreiche überdachte Fahrradstellplätze sowie einen abschließbaren Fahrradkeller. Für das leibliche Wohl sorgt mit abwechslungsreichen Speisen das firmeneigene Betriebsrestaurant.\n\nErfahren Sie mehr über uns: www.iproconsult.com/karriere\n\n## Kontakt\n\nJetzt bewerben\n\nIhr Ansprechpartner für Rückfragen\n\nNils Gardlo\n\nTeam Personalwesen\n\nTel. +49 351 / 46 51 677\n\nIPROconsult GmbH  \n Schnorrstraße 70  \n 01069 Dresden",
    "is_student_job": true,
    "category": "Other",
    "emoji": "✨",
@@ -5516,5 +5622,5 @@
    "initial": true
   }
  ],
- "took_s": 3.9
+ "took_s": 5.6
 }
