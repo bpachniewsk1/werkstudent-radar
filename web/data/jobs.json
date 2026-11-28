@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T00:02:18+00:00",
+ "updated_at": "2026-11-28T12:59:13+00:00",
  "radius": 40,
  "count": 106,
  "jobs": [
@@ -3025,59 +3025,6 @@
    "initial": true
   },
   {
-   "id": "17811-00071304cf3001-S",
-   "title": "Werkstudent*in - Infrastrukturprojekte der Energiewende",
-   "company": "SachsenEnergieBau GmbH",
-   "city": "Heidenau, Sachsen",
-   "district": "",
-   "plz": "01809",
-   "street": "Hauptstr. 110",
-   "lat": 50.958843222,
-   "lon": 13.897425716,
-   "distance_km": 16,
-   "profession": "Geoinformatiker/in",
-   "type": "PRAKTIKUM_TRAINEE",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": false,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2027-01-01",
-   "published": "2026-11-20",
-   "updated": "2026-11-20T10:10:19.497",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
-   "external": false,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTc4MTEtMDAwNzEzMDRjZjMwMDEtUw==",
-    "reference": "17811-00071304cf3001-S",
-    "published_by": "SachsenEnergie AG",
-    "published_by_url": "https://www.sachsenenergie.de",
-    "direct": false,
-    "original_url": null,
-    "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-11-20T12:53:23+00:00"
-   },
-   "description": "Innerhalb der SachsenEnergie-Unternehmensgruppe übernimmt die SachsenEnergieBau medienübergreifend Leistungen zur Errichtung und Erneuerung der Versorgungsinfrastruktur. Insbesondere die Planung und Bauüberwachung im Tief-, Leitungs- und Anlagenbau sind unser Kerngeschäft. Die Vielfalt der Aufgaben erstreckt sich von Einzelbauprojekten bis zum Projektmanagement medienübergreifender Bauprojekte. Moderne Infrastruktur ist für uns Teamarbeit: über 4.000 Mitarbeitende der Unternehmensgruppe engagieren sich täglich gemeinsam für eine zeitgemäße Infrastruktur und die Energiedienstleistungen der Zukunft.\n\nWerkstudent*in - Infrastrukturprojekte der Energiewende\n\nWerkstudent*in - Infrastrukturprojekte der Energiewende - B-PKW\n\nAufgaben, die begeistern\n\nBei uns übernimmst du von Anfang an verantwortungsvolle Aufgaben und wirst aktiv in das Tagesgeschäft eingebunden. Gemeinsam mit erfahrenen Kolleginnen und Kollegen erhältst du Einblicke in die Schnittstellen von Planung, Flächensicherung und Geoinformationssystemen und lernst die Abläufe großer Infrastrukturprojekte kennen.\n\n- Du unterstützt bei der Vorbereitung und Erstellung von Anschreiben im Rahmen der Grundstücksmitbenutzung und trägst damit zur erfolgreichen Projektumsetzung bei.\n- Eingehende Rückmeldungen erfasst und pflegst du sorgfältig in unseren Systemen und sorgst für eine hohe Datenqualität.Eigentümer- und Projektdaten werden von dir aktualisiert, geprüft und für die weitere Bearbeitung aufbereitet.\n- Mit modernen Geoinformationssystemen wie QGIS bearbeitest und aktualisierst du räumliche Daten sowie Planunterlagen.\n- Technische Zeichnungen, Karten und Dokumentationen bereitest du in GIS-Anwendungen und PDF-Dokumenten professionell auf.\n- Bei der Erstellung und Zusammenstellung von Genehmigungsunterlagen unterstützt du unser Projektteam und erhältst wertvolle Einblicke in behördliche Verfahren.\n\nEin Profil, das zu uns passt\n\n- Du befindest dich in einem laufenden Studium, beispielsweise im Bereich Bauingenieurwesen, Wirtschaftsingenieurwesen, Elektrotechnik, Telekommunikation oder einer vergleichbaren Fachrichtung.\n- Themen rund um Infrastrukturprojekte, digitale Planungsprozesse und Geodaten wecken dein Interesse und du möchtest dein Wissen in der Praxis anwenden.\n- Eine strukturierte, sorgfältige und zuverlässige Arbeitsweise zeichnet dich aus, auch wenn du mehrere Aufgaben gleichzeitig im Blick behältst.\n- Mit den gängigen MS-Office-Anwendungen gehst du sicher um und arbeitest dich schnell in neue Systeme ein.\n- Erste Erfahrungen mit Geoinformationssystemen wie QGIS sind von Vorteil, wir freuen uns aber ebenso über motivierte Einsteigerinnen und Einsteiger.\n- Sehr gute Deutschkenntnisse in Wort und Schrift runden dein Profil ab.\n\nUnser Angebot\n\n- Faire Vergütung – du erhältst 16 € pro Stunde für deine Tätigkeit bei uns.\n- Bei uns wird Zusammenarbeit großgeschrieben – offen, respektvoll und immer auf Augenhöhe.\n- Top Lage – unser Standort ist sehr gut mit öffentlichen Verkehrsmitteln erreichbar.\n\n- Freigetränke\n- bezuschusste Mittagsversorgung\n- Mitarbeiterevents\n\nSachsenEnergieBau GmbH · Abteilung Personal · Friedrich-List-Platz 2 · 01069 Dresden · www.SachsenEnergie.de/karriere",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.0,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 29,
-   "first_seen": "2026-11-20T12:53:23+00:00",
-   "initial": false
-  },
-  {
    "id": "10001-1003091133-S",
    "title": "Werkstudent Cyber Security (m/w/d)",
    "company": "SmartTECS Cyber Security GmbH",
@@ -3129,6 +3076,59 @@
    "fit": 29,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
+  },
+  {
+   "id": "17811-00071304cf3001-S",
+   "title": "Werkstudent*in - Infrastrukturprojekte der Energiewende",
+   "company": "SachsenEnergieBau GmbH",
+   "city": "Heidenau, Sachsen",
+   "district": "",
+   "plz": "01809",
+   "street": "Hauptstr. 110",
+   "lat": 50.958843222,
+   "lon": 13.897425716,
+   "distance_km": 16,
+   "profession": "Geoinformatiker/in",
+   "type": "PRAKTIKUM_TRAINEE",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2027-01-01",
+   "published": "2026-11-20",
+   "updated": "2026-11-20T10:10:19.497",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17811-00071304cf3001-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTc4MTEtMDAwNzEzMDRjZjMwMDEtUw==",
+    "reference": "17811-00071304cf3001-S",
+    "published_by": "SachsenEnergie AG",
+    "published_by_url": "https://www.sachsenenergie.de",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-20T12:53:23+00:00"
+   },
+   "description": "Innerhalb der SachsenEnergie-Unternehmensgruppe übernimmt die SachsenEnergieBau medienübergreifend Leistungen zur Errichtung und Erneuerung der Versorgungsinfrastruktur. Insbesondere die Planung und Bauüberwachung im Tief-, Leitungs- und Anlagenbau sind unser Kerngeschäft. Die Vielfalt der Aufgaben erstreckt sich von Einzelbauprojekten bis zum Projektmanagement medienübergreifender Bauprojekte. Moderne Infrastruktur ist für uns Teamarbeit: über 4.000 Mitarbeitende der Unternehmensgruppe engagieren sich täglich gemeinsam für eine zeitgemäße Infrastruktur und die Energiedienstleistungen der Zukunft.\n\nWerkstudent*in - Infrastrukturprojekte der Energiewende\n\nWerkstudent*in - Infrastrukturprojekte der Energiewende - B-PKW\n\nAufgaben, die begeistern\n\nBei uns übernimmst du von Anfang an verantwortungsvolle Aufgaben und wirst aktiv in das Tagesgeschäft eingebunden. Gemeinsam mit erfahrenen Kolleginnen und Kollegen erhältst du Einblicke in die Schnittstellen von Planung, Flächensicherung und Geoinformationssystemen und lernst die Abläufe großer Infrastrukturprojekte kennen.\n\n- Du unterstützt bei der Vorbereitung und Erstellung von Anschreiben im Rahmen der Grundstücksmitbenutzung und trägst damit zur erfolgreichen Projektumsetzung bei.\n- Eingehende Rückmeldungen erfasst und pflegst du sorgfältig in unseren Systemen und sorgst für eine hohe Datenqualität.Eigentümer- und Projektdaten werden von dir aktualisiert, geprüft und für die weitere Bearbeitung aufbereitet.\n- Mit modernen Geoinformationssystemen wie QGIS bearbeitest und aktualisierst du räumliche Daten sowie Planunterlagen.\n- Technische Zeichnungen, Karten und Dokumentationen bereitest du in GIS-Anwendungen und PDF-Dokumenten professionell auf.\n- Bei der Erstellung und Zusammenstellung von Genehmigungsunterlagen unterstützt du unser Projektteam und erhältst wertvolle Einblicke in behördliche Verfahren.\n\nEin Profil, das zu uns passt\n\n- Du befindest dich in einem laufenden Studium, beispielsweise im Bereich Bauingenieurwesen, Wirtschaftsingenieurwesen, Elektrotechnik, Telekommunikation oder einer vergleichbaren Fachrichtung.\n- Themen rund um Infrastrukturprojekte, digitale Planungsprozesse und Geodaten wecken dein Interesse und du möchtest dein Wissen in der Praxis anwenden.\n- Eine strukturierte, sorgfältige und zuverlässige Arbeitsweise zeichnet dich aus, auch wenn du mehrere Aufgaben gleichzeitig im Blick behältst.\n- Mit den gängigen MS-Office-Anwendungen gehst du sicher um und arbeitest dich schnell in neue Systeme ein.\n- Erste Erfahrungen mit Geoinformationssystemen wie QGIS sind von Vorteil, wir freuen uns aber ebenso über motivierte Einsteigerinnen und Einsteiger.\n- Sehr gute Deutschkenntnisse in Wort und Schrift runden dein Profil ab.\n\nUnser Angebot\n\n- Faire Vergütung – du erhältst 16 € pro Stunde für deine Tätigkeit bei uns.\n- Bei uns wird Zusammenarbeit großgeschrieben – offen, respektvoll und immer auf Augenhöhe.\n- Top Lage – unser Standort ist sehr gut mit öffentlichen Verkehrsmitteln erreichbar.\n\n- Freigetränke\n- bezuschusste Mittagsversorgung\n- Mitarbeiterevents\n\nSachsenEnergieBau GmbH · Abteilung Personal · Friedrich-List-Platz 2 · 01069 Dresden · www.SachsenEnergie.de/karriere",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-11-20T12:53:23+00:00",
+   "initial": false
   },
   {
    "id": "11956-3086131794956401-S",
@@ -3205,9 +3205,9 @@
    "minijob": false,
    "homeoffice": false,
    "salary": null,
-   "start": "2026-11-21",
+   "start": "2026-11-28",
    "published": "2026-03-19",
-   "updated": "2026-11-21T07:00:55.562",
+   "updated": "2026-11-28T07:02:58.424",
    "url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-fuer-die-planung-von-ver-und-entsorgungsanlagen--job--104505.html?tc=3-11",
    "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11959-104505-S",
    "external": true,
@@ -3221,7 +3221,7 @@
     "direct": false,
     "original_url": "https://www.der-stellenmarkt.de/stellenangebot/werkstudent-m-w-d-fuer-die-planung-von-ver-und-entsorgungsanlagen--job--104505.html?tc=3-11",
     "original_site": "der-stellenmarkt.de",
-    "fetched_at": "2026-11-21T12:39:30+00:00"
+    "fetched_at": "2026-11-28T12:59:13+00:00"
    },
    "description": "WERKSTUDENT (M/W/D) FÜR DIE PLANUNG VON VER- UND ENTSORGUNGSANLAGEN\n\n [https://www.iproconsult.com] \n\n Dresden \n\n ab sofort \n\n Teilzeit \n\nZur Verstärkung unseres Teams in Dresden suchen wir engagierte WERKSTUDENTEN (m/w/d) für die PLANUNG VON VER- UND ENTSORGUNGSANLAGEN in Außenanlagen (vorrangig Regenwasser-, Schmutzwasser- und Trinkwasseranlagen sowie Tiefbauleistungen verschiedener anderer Gewerke). \n\nIhr Beitrag \n\n\t• Unterstützung der Ver- und Entsorgungsanlagenplanung für Städte und Kommunen, Industrie-, Gewerbe- und Wohngebiete mit dem inhaltlichen Schwerpunkt auf wasserwirtschaftlichen Anlagen \n\n \t• Abwasserkanäle und dazugehörige technische Anlagen\n \t• Speicherung, Rückhalt, Nutzung und Entsorgung von Regenwasser inkl. notwendiger Anlagen wie Regenrückhaltebecken, Zisternen sowie Versickerungs- und Verdunstungsanlagen\n \t• Berechnung von Trinkwassernetzen und deren technischer Ausführung\n \t• Koordinierung von Tiefbauleistungen der Trassen für Fernwärme, Elektro, Gas und Telekommunikation\n \t• Innovative Lösungen für besondere Anforderungen einzelner Kunden\n\n \t• Mitarbeit bei der Erarbeitung der Leistungsphasen 1-5 gemäß HOAI in der Objektplanung Ingenieurbauwerke\n \t• Ein Tutor begleitet Sie fachlich bei der Tätigkeit und hilft ebenfalls bei organisatorischen Fragen in unserem (großen) Unternehmen\n\nIhr Profil \n\n \t• Sie studieren Wasserwirtschaft oder Bauingenieurwesen/Umweltingenieurwesen mit Vertiefungsrichtung Wasserwirtschaft\n \t• Erste Erfahrung im Umgang mit Zeichenprogrammen und hydraulischer Modellierung (beispielsweise AutoCAD, Hystem Extran, ModFlow, STANET)\n \t• Sicherer Umgang mit MS Office Programmen\n \t• Bereitschaft zur Einarbeitung in Fachsoftware\n\nUnser Angebot \n\n \t• KOOPERATION: 400 Spezialisten an 12 nationalen und zwei internationalen Standorten\n \t• ERFAHRUNG: über 70 Jahre innovative Planungskompetenz in Architektur und Ingenieurwesen\n \t• BERUFSPERSPEKTIVEN: Weiterbildungen, Feedbackgespräche, Workshops, Aufstiegschancen zum Projektleiter und Führungsperson\n \t• UMWELTBEWUSSTSEIN: 30 % Zuschuss zum Deutschlandticket, JobRad (Fahrradleasing), Jobroller-Leasing, nachhaltiges Einkaufsmanagement\n \t• GESUNDHEIT: 30 Tage Erholungsurlaub zzgl. vier Kulanztage, Vorsorgeuntersuchungen, diverse Mitarbeitervorteile, Zuschuss zum WELLPASS (Sportangebot)\n \t• GEMEINSCHAFT: mehrmals jährlich stattfindende Firmenevents (6x fest geplant), individuelle Team-Ausflüge\n \t• MODERNE ARBEITSBEDINGUNGEN: Gleitzeit ohne Kernarbeitszeiten, mobiles Arbeiten, Zuschuss zu Kitagebühren, Rücksichtnahme auf Familien, 2-3 Personen-Büros mit ergonomischen Arbeitsplätzen\n\nUnser HAUPTSITZ IN DRESDEN ist sehr gut an das öffentliche Verkehrsnetz angeschlossen und in wenigen Minuten von den Haltestellen Hauptbahnhof und Lennéplatz fußläufig erreichbar. Es gibt zahlreiche überdachte Fahrradstellplätze sowie einen abschließbaren Fahrradkeller. Für das leibliche Wohl sorgt mit abwechslungsreichen Speisen das firmeneigene Betriebsrestaurant. \n\nErfahren Sie mehr über uns: www.iproconsult.com/karriere [https://www.iproconsult.com/karriere] \n\nKontakt Jetzt bewerben [https://apply.jcd.de/Apply.php?iJobAdID=104505&tc=3-11] \n\nIhr Ansprechpartner für Rückfragen \n\nNils Gardlo \n\nTeam Personalwesen \n\nTel. +49 351 / 46 51 677 \n\n IPROconsult GmbH\n Schnorrstraße 70\n 01069 Dresden → www.iproconsult.com [https://www.iproconsult.com] \n ",
    "is_student_job": true,
@@ -5622,5 +5622,5 @@
    "initial": true
   }
  ],
- "took_s": 4.7
+ "took_s": 3.7
 }
