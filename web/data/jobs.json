@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T13:51:49+00:00",
+ "updated_at": "2026-11-28T00:02:18+00:00",
  "radius": 40,
  "count": 106,
  "jobs": [
@@ -3184,59 +3184,6 @@
    "initial": false
   },
   {
-   "id": "14011-44575724-1116-S",
-   "title": "Werkstudent / Studentische Aushilfe Kasse (m/w/d)",
-   "company": "Bauhaus AG",
-   "city": "Dresden",
-   "district": "",
-   "plz": "01239",
-   "street": "",
-   "lat": 51.0016408,
-   "lon": 13.788248,
-   "distance_km": 8,
-   "profession": "Kassierer/in (Handel)",
-   "type": "ARBEIT",
-   "hours_min": null,
-   "hours_max": null,
-   "hours_snippet": null,
-   "hours_estimated": false,
-   "dual_study": false,
-   "full_time": false,
-   "minijob": false,
-   "homeoffice": false,
-   "salary": null,
-   "start": "2026-11-19",
-   "published": "2026-11-17",
-   "updated": "2026-11-19T12:59:12.939",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
-   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
-   "external": false,
-   "source": {
-    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
-    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
-    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTQwMTEtNDQ1NzU3MjQtMTExNi1T",
-    "reference": "14011-44575724-1116-S",
-    "published_by": "Bauhaus AG",
-    "published_by_url": "https://www.karriere.bauhaus.info",
-    "direct": false,
-    "original_url": null,
-    "original_site": "arbeitsagentur.de",
-    "fetched_at": "2026-11-19T13:06:13+00:00"
-   },
-   "description": "Willkommen bei BAUHAUS!\nBAUHAUS baut vor allem auf eines: Den Einsatz aller Mitarbeiter:innen - füreinander und für jeden einzelnen Kunden. Denn nur mit Respekt, Zusammenhalt und Leidenschaft macht es Spaß, jeden Tag aufs Neue alles zu geben. Wir freuen uns darauf, gemeinsam mit neuen Talenten Tag für Tag noch besser zu werden!\n\nFür diese Stelle gibt es keine Bewerbungsfrist. Sie bleibt nur so lange ausgeschrieben, wie sie auch offen ist.\nIhre Aufgaben:\n  *  An der Kasse kassieren Sie sorgfältig und haben neue Kassensysteme schnell auf dem Kasten\n  *  Mit einem freundlichen Lächeln sorgen Sie dafür, dass unsere Kunden gerne wiederkommen\n  *  Auf Sie ist jederzeit Verlass - auch wenn Ihr Können an der Information gefragt ist\n  *  Außerdem ganz wichtig: Sie bringen genauso viel Herzlichkeit wie Verantwortungsgefühl mit!\n\nIhr Profil:\n  *  Eine abgeschlossene kaufmännische Ausbildung - z. B. als Verkäufer, Kaufmann im Einzelhandel (je m/w/d), ist wünschenswert, jedoch keine zwingende Voraussetzung\n  *  (Erste) Erfahrungen im Kassenbereich und im Umgang mit einem Kassensystem bringen Sie idealerweise mit\n  *  Sie überzeugen mit Service- und Kundenorientierung sowie Freundlichkeit - auch wenn es mal stressig wird\n  *  Zuverlässigkeit, Belastbarkeit und Teamorientierung zeichnen Sie aus\n\nUnser Angebot:\n  *  Werden Sie Teil des BAUHAUS-Teams an einem unserer mehr als 160 Standorte\n  *  Mit einer strukturierten Einarbeitung, individueller Förderung durch regelmäßiges Feedback sowie umfangreiche interne Fachschulungen unterstützen wir Sie auf Ihrem Weg\n  *  30 Tage Jahresurlaub, eine attraktive Vergütung, Urlaubs- und Weihnachtsgeld sowie krisensichere Jobaussichten schaffen stabile Rahmenbedingungen für einen Einklang von Arbeits- und Privatleben\n  *  Sie denken heute schon an morgen? BAUHAUS unterstützt Sie dabei auf Wunsch mit einer exklusiven arbeitgeberbezuschussten Altersversorgung, vermögenswirksamen Leistungen und der Option einer Berufsunfähigkeitsversicherung zu Sonderkonditionen\n  *  Do It Yourself! Verwirklichen Sie Ihre eigenen Heimwerker-Projekte mit BAUHAUS und profitieren Sie vom Mitarbeiter-Personalrabatt und der Möglichkeit der vergünstigten Werkzeugausleihe\n\nWillkommen im #TeamBAUHAUS.\nBAUHAUS freut sich auf Ihre Online-Bewerbung über unser Bewerbungsformular - ohne Anschreiben und in weniger als 3 Minuten.\n\nBitte beachten: Papierbewerbungen werden nicht zurückgesendet.\nWeitere Infos gibt es unter https://jobs.bauhaus.info.",
-   "is_student_job": true,
-   "category": "Other",
-   "emoji": "✨",
-   "scores": {
-    "econ": 0.0,
-    "hours": 0.55,
-    "student": 1.0
-   },
-   "fit": 29,
-   "first_seen": "2026-11-17T00:14:50+00:00",
-   "initial": false
-  },
-  {
    "id": "11959-104505-S",
    "title": "Werkstudent (m/w/d) für die Planung von Ver- und Entsorgungsanlagen",
    "company": "IPROconsult GmbH",
@@ -3288,6 +3235,59 @@
    "fit": 29,
    "first_seen": "2026-10-05T13:16:11+00:00",
    "initial": true
+  },
+  {
+   "id": "14011-44575724-1116-S",
+   "title": "Werkstudent / Studentische Aushilfe Kasse (m/w/d)",
+   "company": "Bauhaus AG",
+   "city": "Dresden",
+   "district": "",
+   "plz": "01239",
+   "street": "",
+   "lat": 51.0016408,
+   "lon": 13.788248,
+   "distance_km": 8,
+   "profession": "Kassierer/in (Handel)",
+   "type": "ARBEIT",
+   "hours_min": null,
+   "hours_max": null,
+   "hours_snippet": null,
+   "hours_estimated": false,
+   "dual_study": false,
+   "full_time": false,
+   "minijob": false,
+   "homeoffice": false,
+   "salary": null,
+   "start": "2026-11-19",
+   "published": "2026-11-17",
+   "updated": "2026-11-19T12:59:12.939",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
+   "ba_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
+   "external": false,
+   "source": {
+    "description_from": "Bundesagentur für Arbeit (Jobsuche)",
+    "description_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14011-44575724-1116-S",
+    "api_url": "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobdetails/MTQwMTEtNDQ1NzU3MjQtMTExNi1T",
+    "reference": "14011-44575724-1116-S",
+    "published_by": "Bauhaus AG",
+    "published_by_url": "https://www.karriere.bauhaus.info",
+    "direct": false,
+    "original_url": null,
+    "original_site": "arbeitsagentur.de",
+    "fetched_at": "2026-11-19T13:06:13+00:00"
+   },
+   "description": "Willkommen bei BAUHAUS!\nBAUHAUS baut vor allem auf eines: Den Einsatz aller Mitarbeiter:innen - füreinander und für jeden einzelnen Kunden. Denn nur mit Respekt, Zusammenhalt und Leidenschaft macht es Spaß, jeden Tag aufs Neue alles zu geben. Wir freuen uns darauf, gemeinsam mit neuen Talenten Tag für Tag noch besser zu werden!\n\nFür diese Stelle gibt es keine Bewerbungsfrist. Sie bleibt nur so lange ausgeschrieben, wie sie auch offen ist.\nIhre Aufgaben:\n  *  An der Kasse kassieren Sie sorgfältig und haben neue Kassensysteme schnell auf dem Kasten\n  *  Mit einem freundlichen Lächeln sorgen Sie dafür, dass unsere Kunden gerne wiederkommen\n  *  Auf Sie ist jederzeit Verlass - auch wenn Ihr Können an der Information gefragt ist\n  *  Außerdem ganz wichtig: Sie bringen genauso viel Herzlichkeit wie Verantwortungsgefühl mit!\n\nIhr Profil:\n  *  Eine abgeschlossene kaufmännische Ausbildung - z. B. als Verkäufer, Kaufmann im Einzelhandel (je m/w/d), ist wünschenswert, jedoch keine zwingende Voraussetzung\n  *  (Erste) Erfahrungen im Kassenbereich und im Umgang mit einem Kassensystem bringen Sie idealerweise mit\n  *  Sie überzeugen mit Service- und Kundenorientierung sowie Freundlichkeit - auch wenn es mal stressig wird\n  *  Zuverlässigkeit, Belastbarkeit und Teamorientierung zeichnen Sie aus\n\nUnser Angebot:\n  *  Werden Sie Teil des BAUHAUS-Teams an einem unserer mehr als 160 Standorte\n  *  Mit einer strukturierten Einarbeitung, individueller Förderung durch regelmäßiges Feedback sowie umfangreiche interne Fachschulungen unterstützen wir Sie auf Ihrem Weg\n  *  30 Tage Jahresurlaub, eine attraktive Vergütung, Urlaubs- und Weihnachtsgeld sowie krisensichere Jobaussichten schaffen stabile Rahmenbedingungen für einen Einklang von Arbeits- und Privatleben\n  *  Sie denken heute schon an morgen? BAUHAUS unterstützt Sie dabei auf Wunsch mit einer exklusiven arbeitgeberbezuschussten Altersversorgung, vermögenswirksamen Leistungen und der Option einer Berufsunfähigkeitsversicherung zu Sonderkonditionen\n  *  Do It Yourself! Verwirklichen Sie Ihre eigenen Heimwerker-Projekte mit BAUHAUS und profitieren Sie vom Mitarbeiter-Personalrabatt und der Möglichkeit der vergünstigten Werkzeugausleihe\n\nWillkommen im #TeamBAUHAUS.\nBAUHAUS freut sich auf Ihre Online-Bewerbung über unser Bewerbungsformular - ohne Anschreiben und in weniger als 3 Minuten.\n\nBitte beachten: Papierbewerbungen werden nicht zurückgesendet.\nWeitere Infos gibt es unter https://jobs.bauhaus.info.",
+   "is_student_job": true,
+   "category": "Other",
+   "emoji": "✨",
+   "scores": {
+    "econ": 0.0,
+    "hours": 0.55,
+    "student": 1.0
+   },
+   "fit": 29,
+   "first_seen": "2026-11-17T00:14:50+00:00",
+   "initial": false
   },
   {
    "id": "10000-1206665639-S",
@@ -5622,5 +5622,5 @@
    "initial": true
   }
  ],
- "took_s": 6.3
+ "took_s": 4.7
 }
